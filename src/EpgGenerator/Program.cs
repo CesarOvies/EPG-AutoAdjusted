@@ -49,6 +49,12 @@ if (!EpgAggregator.PassesSafetyGate(validChannels))
     return 1;
 }
 
+int staticAdded = EpgAggregator.AppendStaticChannels(validChannels, aliasConfig, startUtc, endUtc);
+if (staticAdded > 0)
+{
+    Console.WriteLine($"[EPG] Added {staticAdded} static/custom channels with continuous '{{nome_canal}}' guide.");
+}
+
 var xmlPath = Path.Combine(options.OutputDir, "epg.xml");
 var gzPath = Path.Combine(options.OutputDir, "epg.xml.gz");
 

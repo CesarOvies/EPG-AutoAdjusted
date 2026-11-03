@@ -6,8 +6,8 @@ namespace EpgGenerator;
 
 public static partial class ChannelNormalizer
 {
-    // Strips common resolution/codec tokens at the end of operator channel names
-    [GeneratedRegex(@"\s+(?:FHD|UHD|HD|SD|4K|H\.?265|HEVC)(?:\s+(?:FHD|UHD|HD|SD|4K|H\.?265|HEVC))*\s*$", RegexOptions.IgnoreCase | RegexOptions.Compiled)]
+    // Strips common resolution/codec tokens and backup superscripts (¹²³) at the end of channel names
+    [GeneratedRegex(@"(?:\s+(?:FHD|UHD|QHD|HD|SD|4K|H\.?265|HEVC)[¹²³]*)+[¹²³]*\s*|[¹²³]+\s*$", RegexOptions.IgnoreCase | RegexOptions.Compiled)]
     private static partial Regex TrailingQualityRegex();
 
     [GeneratedRegex(@"[^a-z0-9]+", RegexOptions.Compiled)]
@@ -57,15 +57,22 @@ public static partial class ChannelNormalizer
             seeds.AddRange(customList);
         }
 
+        // Include ASCII (no-accent) variations for maximum retrocompatibility
+        var asciiSeeds = seeds.Select(RemoveDiacritics).ToList();
+        seeds.AddRange(asciiSeeds);
+
         // First add base names and raw operator names
         foreach (var seed in seeds)
             Add(seed);
         foreach (var raw in channel.RawNames)
             Add(raw);
 
-        // Expand each seed with every resolution/codec suffix (SD, HD, FHD, 4K, H265...)
+        // Expand each seed with every resolution/codec suffix (SD, HD, FHD, FHD¹, 4K, H265...)
         foreach (var seed in seeds.Distinct(StringComparer.OrdinalIgnoreCase))
         {
+            Add($"{seed}¹");
+            Add($"{seed}²");
+            Add($"{seed}³");
             foreach (var suffix in config.Suffixes)
             {
                 Add($"{seed} {suffix}");

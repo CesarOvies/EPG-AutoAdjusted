@@ -12,6 +12,8 @@ public class EpgGeneratorTests
     [Theory]
     [InlineData("AMC HD", "AMC")]
     [InlineData("AMC FHD H265", "AMC")]
+    [InlineData("ESPN 1 FHD¹", "ESPN 1")]
+    [InlineData("SPORTV HD²", "SPORTV")]
     [InlineData("TNT Séries FHD", "TNT Séries")]
     [InlineData("DISCOVERY 4K UHD", "DISCOVERY")]
     [InlineData("GLOBO SP", "GLOBO SP")]
@@ -113,6 +115,38 @@ public class EpgGeneratorTests
 
         Assert.False(EpgAggregator.PassesSafetyGate(oneChannel, minChannels: 2, minProgrammes: 5));
         Assert.True(EpgAggregator.PassesSafetyGate(oneChannel, minChannels: 1, minProgrammes: 1));
+    }
+
+    [Fact]
+    public void AppendStaticChannels_AddsContinuousChannelNameScheduleWithoutOverwritingRealChannels()
+    {
+        var start = new DateTimeOffset(2026, 11, 3, 12, 0, 0, TimeSpan.Zero);
+        var end = start.AddHours(12);
+
+        var channels = new List<MergedChannel>
+        {
+            new()
+            {
+                Id = "amc.br",
+                BaseName = "AMC",
+                PrimarySource = "ClaroTV+",
+                Programmes = [new ProgrammeData("Real Movie", null, null, start, end, null, null, null, null)]
+            }
+        };
+
+        var cfg = new AliasConfig
+        {
+            StaticChannels = ["AMC", "24H TODO MUNDO ODEIA O CHRIS"]
+        };
+
+        int added = EpgAggregator.AppendStaticChannels(channels, cfg, start, end);
+
+        Assert.Equal(1, added);
+        Assert.Equal(2, channels.Count);
+
+        var staticCh = channels.Single(c => c.BaseName == "24H TODO MUNDO ODEIA O CHRIS");
+        Assert.Equal(2, staticCh.Programmes.Count); // two 6h blocks for 12h window
+        Assert.All(staticCh.Programmes, p => Assert.Equal("24H TODO MUNDO ODEIA O CHRIS", p.Title));
     }
 
     [Fact]

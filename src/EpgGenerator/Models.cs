@@ -36,10 +36,14 @@ public sealed class AliasConfig
 {
     public List<string> Suffixes { get; set; } =
     [
-        "SD", "HD", "FHD", "4K", "UHD", "H265", "HEVC", "FHD H265", "HD H265", "FHD HEVC"
+        "SD", "HD", "FHD", "4K", "UHD", "QHD", "H265", "HEVC",
+        "SD¹", "SD²", "HD¹", "HD²", "FHD¹", "FHD²", "UHD¹", "UHD²",
+        "FHD H265", "HD H265", "FHD HEVC", "4K UHD"
     ];
 
     public Dictionary<string, List<string>> CustomAliases { get; set; } = new(StringComparer.OrdinalIgnoreCase);
+
+    public List<string> StaticChannels { get; set; } = [];
 
     public static AliasConfig Load(string path)
     {
