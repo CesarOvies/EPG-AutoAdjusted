@@ -1,0 +1,44 @@
+name: Update EPG
+
+on:
+  schedule:
+    # Runs every 12 hours (00:00 and 12:00 UTC)
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup .NET 10
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Run Unit Tests
+        run: dotnet test -c Release --nologo
+
+      - name: Run Self-Check
+        run: dotnet run --project src/EpgGenerator -c Release -- --self-check
+
+      - name: Generate EPG (ClaroTV+ & VivoPlay cascade)
+        run: dotnet run --project src/EpgGenerator -c Release -- --days 2 --output output --aliases aliases.json
+
+      - name: Commit and Push updated EPG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/epg.xml output/epg.xml.gz
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(epg): auto-update EPG ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
+

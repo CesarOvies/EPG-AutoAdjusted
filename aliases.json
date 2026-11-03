@@ -1,0 +1,27 @@
+{
+  "suffixes": [
+    "SD",
+    "HD",
+    "FHD",
+    "4K",
+    "UHD",
+    "H265",
+    "HEVC",
+    "FHD H265",
+    "HD H265",
+    "FHD HEVC"
+  ],
+  "customAliases": {
+    "GLOBO SP": ["Globo", "Rede Globo", "TV Globo", "Globo SP"],
+    "GLOBO RJ": ["Globo Rio", "Rede Globo RJ"],
+    "SPORTV": ["SporTV 1"],
+    "ESPN": ["ESPN 1", "ESPN Brasil"],
+    "PREMIERE CLUBES": ["Premiere", "Premiere 1", "Premiere FC"],
+    "WARNER CHANNEL": ["Warner", "Warner TV"],
+    "SONY CHANNEL": ["Sony"],
+    "UNIVERSAL TV": ["Universal", "Universal Channel"],
+    "DISCOVERY CHANNEL": ["Discovery"],
+    "HISTORY": ["History Channel", "The History Channel"]
+  }
+}
+

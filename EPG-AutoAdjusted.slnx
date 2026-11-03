@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EpgGenerator/EpgGenerator.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EpgGenerator.Tests/EpgGenerator.Tests.csproj" />
+  </Folder>
+</Solution>
