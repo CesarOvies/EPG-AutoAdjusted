@@ -42,6 +42,12 @@ Ou descomprimido:
 https://raw.githubusercontent.com/CesarOvies/EPG-AutoAdjusted/main/output/epg.xml
 ```
 
+## Motivação & Agradecimentos
+
+Este projeto nasceu de uma dor pessoal: a dificuldade de manter a grade de programação (EPG) sempre organizada e **automaticamente retrocompatível com qualquer lista de IPTV de terceiros** — onde o mesmo canal costuma aparecer fragmentado em diversas variações de nomenclatura e sufixos (`SD`, `HD`, `FHD`, `4K`, `H265`, `FHD¹`, `HD²`, abreviações ou `tvg-id` divergentes), fazendo com que os guias tradicionais só funcionassem em uma das resoluções ou exigissem edição manual constante da lista M3U.
+
+Agradecimentos especiais ao projeto [**limaalef/BrazilTVEPG**](https://github.com/limaalef/BrazilTVEPG), que serviu como grande inspiração e referência inicial para a concepção desta solução.
+
 ## Aviso Legal (Disclaimer)
 
 - Este projeto **não fornece, não hospeda, não transmite e não distribui** nenhum fluxo de vídeo, áudio, sinal de TV ou listas de reprodução (`.m3u` / `.m3u8`).
