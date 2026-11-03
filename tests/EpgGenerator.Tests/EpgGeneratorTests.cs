@@ -55,8 +55,10 @@ public class EpgGeneratorTests
         Assert.Contains("GLOBO SP (HD)", names);
         Assert.Contains("Globo", names);
         Assert.Contains("Globo FHD", names);
+        Assert.Contains("GLOBO FHD", names);
         Assert.Contains("Rede Globo HD", names);
-        Assert.Equal(names.Count, names.Distinct(StringComparer.OrdinalIgnoreCase).Count());
+        Assert.Contains("REDE GLOBO HD", names);
+        Assert.Equal(names.Count, names.Distinct(StringComparer.Ordinal).Count());
     }
 
     [Fact]

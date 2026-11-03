@@ -33,7 +33,7 @@ public static partial class ChannelNormalizer
     public static IReadOnlyList<string> BuildDisplayNames(MergedChannel channel, AliasConfig config)
     {
         var result = new List<string>();
-        var seen = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+        var seen = new HashSet<string>(StringComparer.Ordinal);
 
         void Add(string? candidate)
         {
@@ -57,19 +57,33 @@ public static partial class ChannelNormalizer
             seeds.AddRange(customList);
         }
 
-        // Include ASCII (no-accent) variations for maximum retrocompatibility
-        var asciiSeeds = seeds.Select(RemoveDiacritics).ToList();
-        seeds.AddRange(asciiSeeds);
+        // Include ASCII (no-accent) and UPPERCASE variations for case-sensitive IPTV players
+        var expandedSeeds = new List<string>();
+        foreach (var s in seeds)
+        {
+            expandedSeeds.Add(s);
+            expandedSeeds.Add(s.ToUpperInvariant());
+            var ascii = RemoveDiacritics(s);
+            expandedSeeds.Add(ascii);
+            expandedSeeds.Add(ascii.ToUpperInvariant());
+        }
 
         // First add base names and raw operator names
-        foreach (var seed in seeds)
+        foreach (var seed in expandedSeeds)
             Add(seed);
         foreach (var raw in channel.RawNames)
+        {
             Add(raw);
+            Add(raw.ToUpperInvariant());
+        }
 
         // Expand each seed with every resolution/codec suffix (SD, HD, FHD, FHD¹, 4K, H265...)
-        foreach (var seed in seeds.Distinct(StringComparer.OrdinalIgnoreCase))
+        // Skip suffix expansion for dotted tvg-id aliases (e.g. "Adult.Swim.ca2") to keep XML lean
+        foreach (var seed in expandedSeeds.Distinct(StringComparer.Ordinal))
         {
+            if (seed.Contains('.'))
+                continue;
+
             Add($"{seed}¹");
             Add($"{seed}²");
             Add($"{seed}³");

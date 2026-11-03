@@ -150,7 +150,82 @@
                                            "GLOBO BAHIA",
                                            "GLOBO RJ INTERIOR",
                                            "GB Tapajós Santarém",
-                                           "GB TV SERGIPE"
+                                           "GB TV SERGIPE",
+                                           "globo.brasilia.br",
+                                           "Globo RBS TV Poa",
+                                           "Globo.HD.pt",
+                                           "globo.amazonas.br",
+                                           "GloboInternacional.br",
+                                           "intertv.cabugi.br",
+                                           "rbs.porto.alegre.br",
+                                           "tv.cabo.branco.br",
+                                           "intertv.grande.minas.br",
+                                           "globo.anhanguera.br",
+                                           "ZYA659",
+                                           "tv.morena.br",
+                                           "UNIVERSAL PREMIERE HD",
+                                           "GloboAnhanguera.br",
+                                           "TV Centro America Cuiabá HD.br",
+                                           "EPTVCampinas.br",
+                                           "STV.Central.uk",
+                                           "Central.TV.mn",
+                                           "EPTVRibeiraoPreto.br",
+                                           "EPTV Sul de Minas HD.br",
+                                           "intertv.alto.literal.br",
+                                           "cartoon",
+                                           "intertv.serra.mar.br",
+                                           "a.e.br",
+                                           "band.br",
+                                           "tv.gazeta.sul.br",
+                                           "TV.Gazeta.br",
+                                           "Globo TV Integracao Juiz de Fora FHD",
+                                           "globo.rj.br",
+                                           "tv.rio.sul.br",
+                                           "TVVanguardaSaoJosedosCampos.br",
+                                           "TVTribunaSantos.br",
+                                           "124",
+                                           "eptv.sul.minas.br",
+                                           "TVALEHD",
+                                           "Inter.TV.ch",
+                                           "TV Grande Rio.br",
+                                           "TVIDEAL",
+                                           "Globo TV Tem Bauru.br",
+                                           "TV TEM Itapetininga.br",
+                                           "m3u4u",
+                                           "globo.bahia.br",
+                                           "TVGazetaAlagoas.br",
+                                           "tv.mirante.sao.luis.br",
+                                           "globo.nordeste.br",
+                                           "globo.recife.br",
+                                           "ZYA304",
+                                           "globo.br",
+                                           "tv.verdes.mares.br",
+                                           "InterTV Costa Branca HD.br",
+                                           "tv.clube.br",
+                                           "globo.rbs.poa.br",
+                                           "Globo TV Rede Amazonica Boa Vista FHD",
+                                           "tv.macapa.br",
+                                           "Globo TV Rede Amazonica Porto Velho FHD",
+                                           "globo.belo.horizonte.br",
+                                           "RBS TV Porto Alegre HD.br",
+                                           "RBS TV Santa Maria HD.br",
+                                           "rpc.curitiba.br",
+                                           "a.and.e.br",
+                                           "nsc.florianopolis.br",
+                                           "nsc.blumenau.br",
+                                           "nsc.chapeco.br",
+                                           "nsc.criciuma.br",
+                                           "nsc.joinville.br",
+                                           "RBSPELO",
+                                           "RPC Cascavel.br",
+                                           "rpc.foz.do.iguacu.br",
+                                           "RPC Londrina HD.br",
+                                           "rpc.maringa.br",
+                                           "RPC Paranavaí HD.br",
+                                           "rpc.ponta.grossa.br",
+                                           "CNNBrasil",
+                                           "Globorj.br",
+                                           "tv.sergipe.br"
                                        ],
                           "RECORD":  [
                                          "Record TV",
@@ -202,7 +277,28 @@
                                          "RECORD TV CONQUISTA MT",
                                          "RECORD TV PAULISTA BAURU",
                                          "RECORD TV",
-                                         "RECORD TV ATALAIA"
+                                         "RECORD TV ATALAIA",
+                                         "Record TV Bahia.br",
+                                         "186",
+                                         "RecordTV Belém",
+                                         "RecordTVBrasil.br",
+                                         "Record TV Brasília HD.br",
+                                         "record.br",
+                                         "record.fortaleza.br",
+                                         "Record.TV.br",
+                                         "tv.correio.br",
+                                         "Record TV Rio HD.br",
+                                         "RecordTVGoiás.br",
+                                         "record.porto.alegre.br",
+                                         "record.cuiaba.br",
+                                         "Record TV Minas HD",
+                                         "rede.minas.br",
+                                         "Record.TV.pl",
+                                         "Record TV RS.br",
+                                         "Recordriopreto.br",
+                                         "tv.vitoria.br",
+                                         "recordtv.cuiaba.br",
+                                         "a.and.e.br"
                                      ],
                           "SBT":  [
                                       "SBT SP",
@@ -230,7 +326,20 @@
                                       "SBT PONTA VERDE AL",
                                       "SBT LONDRINA",
                                       "SBT GUAJARA PA",
-                                      "SBT GO"
+                                      "SBT GO",
+                                      "sbt.br",
+                                      "globo.bahia.br",
+                                      "SBTBrasil.br",
+                                      "tv.alterosa.br",
+                                      "rede.minas.br",
+                                      "397",
+                                      "SBT NEWS HD",
+                                      "sbt.santa.catarina.br",
+                                      "EPTVRibeiraoPreto.br",
+                                      "SBT Rio",
+                                      "SBT TV Ponta Verde HD",
+                                      "SBTSantaCatarinaHD.br",
+                                      "sbt.belem.br"
                                   ],
                           "BAND":  [
                                        "Band SP",
@@ -245,34 +354,55 @@
                                        "BAND TV BRASILIA",
                                        "BAND TV NORDESTE",
                                        "BAND TV PARA",
-                                       "BAND TV CASCAVEL PR"
+                                       "BAND TV CASCAVEL PR",
+                                       "Band.br",
+                                       "Band Bahia",
+                                       "BandCampinas.br",
+                                       "band.minas.br",
+                                       "tv.tribuna.br",
+                                       "BandRioGrandedoSulHD.br",
+                                       "and.TV.us2",
+                                       "band.brasilia.br",
+                                       "6",
+                                       "Band Belém",
+                                       "5"
                                    ],
                           "REDE TV!":  [
                                            "Rede TV",
                                            "RedeTV",
-                                           "RedeTV!"
+                                           "RedeTV!",
+                                           "REDE TV! São Paulo"
                                        ],
                           "CULTURA":  [
-                                          "TV Cultura"
+                                          "TV Cultura",
+                                          "TV.Cultura.br"
                                       ],
                           "TV Camara":  [
                                             "TV Camera",
-                                            "TV Câmara"
+                                            "TV Câmara",
+                                            "TV Camara"
                                         ],
                           "SPORTV":  [
                                          "SporTV 1",
-                                         "Spotv.Hd2.ph"
+                                         "Spotv.Hd2.ph",
+                                         "SporTV.br",
+                                         "SPORTV"
                                      ],
                           "ESPN":  [
                                        "ESPN 1",
-                                       "ESPN Brasil"
+                                       "ESPN Brasil",
+                                       "29",
+                                       "ESPN"
                                    ],
                           "PREMIERE CLUBES":  [
                                                   "Premiere",
                                                   "Premiere 1",
                                                   "Premiere FC",
                                                   "PREMIERE 1 CLUBES",
-                                                  "PREMIERE MOSAICO"
+                                                  "PREMIERE MOSAICO",
+                                                  "Premiere.Clubes.br",
+                                                  "PREMIERE CLUBES HD",
+                                                  "MosaicoPremiere"
                                               ],
                           "TELECINE ACTION":  [
                                                   "TC ACTION",
@@ -296,52 +426,69 @@
                                              ],
                           "TELECINE CULT":  [
                                                 "TC CULT",
-                                                "telecine.cult.br"
+                                                "telecine.cult.br",
+                                                "TELECINE CULT"
                                             ],
                           "HBO2":  [
-                                       "HBO 2"
+                                       "HBO 2",
+                                       "São.Paulo/SP..HBO.2.br"
                                    ],
                           "HBO Plus":  [
                                            "HBO + PLUS",
-                                           "HBO+"
+                                           "HBO+",
+                                           "HBO.PLUS.HD.uy"
                                        ],
                           "DISCOVERY":  [
-                                            "DISCOVERY CHANNEL"
+                                            "DISCOVERY CHANNEL",
+                                            "Discovery.Channel.HD.za"
                                         ],
                           "DISCOVERY HOME\u0026HEALTH":  [
                                                              "DISCOVERY H\u0026H",
-                                                             "DISCOVERY HOME \u0026 HEALTH"
+                                                             "DISCOVERY HOME \u0026 HEALTH",
+                                                             "Discovery.H\u0026H.co"
                                                          ],
                           "ID":  [
                                      "DISCOVERY ID",
-                                     "INVESTIGACAO DISCOVERY"
+                                     "INVESTIGACAO DISCOVERY",
+                                     "Discovery.ID.za"
                                  ],
                           "DISCOVERY THEATER":  [
-                                                    "DISCOVERY THEATHER"
+                                                    "DISCOVERY THEATHER",
+                                                    "DISCOVERY.THEATER.HD.uy"
                                                 ],
                           "CARTOON":  [
-                                          "CARTOON NETWORK"
+                                          "CARTOON NETWORK",
+                                          "Cartoon.Network.HD.za"
                                       ],
                           "USA":  [
-                                      "USA NETWORK"
+                                      "USA NETWORK",
+                                      "USA.NETWORK.HD.uy"
                                   ],
                           "Adult Swim":  [
                                              "TRU TV",
-                                             "TRUTV"
+                                             "TRUTV",
+                                             "Adult.Swim.ca2",
+                                             "truTV.HD.us2"
                                          ],
                           "Modo Viagem":  [
                                               "+GLOBOSAT",
-                                              "MAIS GLOBOSAT"
+                                              "MAIS GLOBOSAT",
+                                              "MaisGlobosat.br",
+                                              "modo-viagem"
                                           ],
                           "GLOBONEWS":  [
-                                            "GLOBO NEWS"
+                                            "GLOBO NEWS",
+                                            "Globo.News.br"
                                         ],
                           "RECORD NEWS":  [
-                                              "RECORD TV NEWS"
+                                              "RECORD TV NEWS",
+                                              "Record.News.pt"
                                           ],
                           "CNN INTERNATIONAL":  [
                                                     "CNN INTERNACIONAL",
-                                                    "CNN PORTUGAL"
+                                                    "CNN PORTUGAL",
+                                                    "CNN.Internacional.es",
+                                                    "CNN.Portugal.HD.pt"
                                                 ],
                           "Exclusivo CNBC":  [
                                                  "CNBC BRASIL",
@@ -349,21 +496,299 @@
                                              ],
                           "WARNER CHANNEL":  [
                                                  "Warner",
-                                                 "Warner TV"
+                                                 "Warner TV",
+                                                 "Warner.Channel.co"
                                              ],
                           "SONY CHANNEL":  [
-                                               "Sony"
+                                               "Sony",
+                                               "SONY.HD.uy"
                                            ],
                           "UNIVERSAL TV":  [
                                                "Universal",
-                                               "Universal Channel"
+                                               "Universal Channel",
+                                               "Universal.TV.HD.za"
                                            ],
                           "HISTORY":  [
                                           "History Channel",
-                                          "The History Channel"
+                                          "The History Channel",
+                                          "History.HD.za"
                                       ],
                           "Xsports":  [
                                           "X Sports"
-                                      ]
+                                      ],
+                          "A\u0026E":  [
+                                           "A\u0026E.co"
+                                       ],
+                          "AXN":  [
+                                      "AXN.HD.vn"
+                                  ],
+                          "BAND SPORTS":  [
+                                              "Band.Sports.br"
+                                          ],
+                          "PREMIERE 2":  [
+                                             "Premiere.2.al",
+                                             "PREMIERE 2 HD"
+                                         ],
+                          "SPORTV 2":  [
+                                           "SporTV.2.br",
+                                           "SPORTV 2"
+                                       ],
+                          "SPORTV 3":  [
+                                           "SporTV.3.br",
+                                           "SPORTV 3"
+                                       ],
+                          "BAND NEWS":  [
+                                            "Band.News.br"
+                                        ],
+                          "CNN Money":  [
+                                            "CNN Money"
+                                        ],
+                          "Fox News":  [
+                                           "FOX.NEWS.ph"
+                                       ],
+                          "SBT NEWS":  [
+                                           "SBT News"
+                                       ],
+                          "CANAL BRASIL":  [
+                                               "Canal.Brasil.br"
+                                           ],
+                          "CANAL DO BOI":  [
+                                               "Canal.do.Boi.br"
+                                           ],
+                          "FUTURA":  [
+                                         "Futura.br"
+                                     ],
+                          "Rede Brasil":  [
+                                              "Rede.Brasil.HD.br"
+                                          ],
+                          "Terra Viva":  [
+                                             "Terra Viva"
+                                         ],
+                          "TV BRASIL":  [
+                                            "TV.Brasil.br"
+                                        ],
+                          "TV Senado":  [
+                                            "TV.Senado.br"
+                                        ],
+                          "CARTOONITO":  [
+                                             "Cartoonito.za"
+                                         ],
+                          "DISCOVERY KIDS":  [
+                                                 "DISCOVERY.KIDS.uy"
+                                             ],
+                          "GLOOB":  [
+                                        "Gloob.br"
+                                    ],
+                          "GLOOBINHO":  [
+                                            "gloobinho"
+                                        ],
+                          "Tooncast":  [
+                                           "TOONCAST.HD.uy"
+                                       ],
+                          "TV RA TIM BUM":  [
+                                                "TV RA TIM BUM"
+                                            ],
+                          "LIKE":  [
+                                       "LIKE"
+                                   ],
+                          "HGTV":  [
+                                       "HGTV.za"
+                                   ],
+                          "FISH TV":  [
+                                          "Fish TV"
+                                      ],
+                          "HISTORY 2":  [
+                                            "HISTORY.2.HD.uy"
+                                        ],
+                          "ANIMAL PLANET":  [
+                                                "ANIMAL.PLANET.HD.uy"
+                                            ],
+                          "TLC":  [
+                                      "TLC.HD.za"
+                                  ],
+                          "DISCOVERY SCIENCE":  [
+                                                    "DISCOVERY.SCIENCE.HD.uy"
+                                                ],
+                          "DISCOVERY TURBO":  [
+                                                  "DISCOVERY.TURBO.HD.uy"
+                                              ],
+                          "DISCOVERY WORLD":  [
+                                                  "DISCOVERY.WORLD.HD.uy"
+                                              ],
+                          "AMC":  [
+                                      "AMC.HD.uy"
+                                  ],
+                          "CINEMAX":  [
+                                          "CINEMAX.HD.uy"
+                                      ],
+                          "MEGAPIX":  [
+                                          "Megapix.br"
+                                      ],
+                          "SONY Movies":  [
+                                              "SONY.MOVIES.HD..uy"
+                                          ],
+                          "SPACE":  [
+                                        "SPACE.HD.uy"
+                                    ],
+                          "STUDIO UNIVERSAL":  [
+                                                   "Studio.Universal.HD.za"
+                                               ],
+                          "TCM":  [
+                                      "TCM.uy"
+                                  ],
+                          "TNT":  [
+                                      "TNT.HD.uy"
+                                  ],
+                          "TNT NOVELAS":  [
+                                              "TNT.NOVELAS.uy"
+                                          ],
+                          "TNT SERIES":  [
+                                             "TNT.SERIES.HD.uy"
+                                         ],
+                          "HBO Family":  [
+                                             "HBO.FAMILY.HD.uy"
+                                         ],
+                          "HBO":  [
+                                      "HBO.HD.uy"
+                                  ],
+                          "HBO Mundi":  [
+                                            "HBO.MUNDI.HD.uy"
+                                        ],
+                          "HBO Pop":  [
+                                          "HBO.POP.HD.uy"
+                                      ],
+                          "HBO Signature":  [
+                                                "HBO.SIGNATURE.HD.uy"
+                                            ],
+                          "HBO Xtreme":  [
+                                             "HBO.XTREME.HD.uy"
+                                         ],
+                          "ARTE 1":  [
+                                         "Arte.1.br"
+                                     ],
+                          "BIS":  [
+                                      "Bis.br"
+                                  ],
+                          "C3-TV":  [
+                                        "C3 TV"
+                                    ],
+                          "CURTA":  [
+                                        "CURTA"
+                                    ],
+                          "E!":  [
+                                     "E!.nl"
+                                 ],
+                          "FASHION TV":  [
+                                             "Fashion.TV.sk"
+                                         ],
+                          "FILM \u0026 ARTS":  [
+                                                   "FILM.\u0026.ARTS.co"
+                                               ],
+                          "FOOD NETWORK":  [
+                                               "Food.Network.HD.za"
+                                           ],
+                          "GNT":  [
+                                      "GNT.br"
+                                  ],
+                          "LIFETIME":  [
+                                           "LIFETIME.HD.uy"
+                                       ],
+                          "MULTISHOW":  [
+                                            "Multishow.br"
+                                        ],
+                          "OFF":  [
+                                      "OFF.HD.br"
+                                  ],
+                          "PRIME BOX BRAZIL":  [
+                                                   "Prime Box Brazil HD"
+                                               ],
+                          "Sabor \u0026 Arte":  [
+                                                    "Sabor.\u0026.Arte.br"
+                                                ],
+                          "CANÇÃO NOVA":  [
+                                              "Canção.Nova.pt"
+                                          ],
+                          "CNT":  [
+                                      "CNTV.kr"
+                                  ],
+                          "TV APARECIDA":  [
+                                               "TV Aparecida HD"
+                                           ],
+                          "TV Evangelizar":  [
+                                                 "TV Evangelizar"
+                                             ],
+                          "TV Novo Tempo":  [
+                                                "TV Novo Tempo"
+                                            ],
+                          "TV Pai Eterno":  [
+                                                "TV Pai Eterno HD"
+                                            ],
+                          "Combate":  [
+                                          "Combate.br"
+                                      ],
+                          "ESPN 2":  [
+                                         "ESPN.2.HD.za",
+                                         "ESPN2.br"
+                                     ],
+                          "ESPN 3":  [
+                                         "ESPN.3.HD.uy",
+                                         "ESPN 3",
+                                         "ESPN3.br"
+                                     ],
+                          "ESPN 4":  [
+                                         "ESPN.4.HD.uy"
+                                     ],
+                          "ESPN 5":  [
+                                         "ESPN5.br",
+                                         "ESPN 5",
+                                         "ESPN.5.HD.uy"
+                                     ],
+                          "ESPN 6":  [
+                                         "ESPN.6.HD.uy"
+                                     ],
+                          "PREMIERE 3":  [
+                                             "Premiere.3.al",
+                                             "PREMIERE 3 HD"
+                                         ],
+                          "PREMIERE 4":  [
+                                             "Premiere.4.al",
+                                             "PREMIERE 4 HD"
+                                         ],
+                          "PREMIERE 5":  [
+                                             "Premiere 5"
+                                         ],
+                          "PREMIERE 6":  [
+                                             "PREMIERE 6 HD"
+                                         ],
+                          "PREMIERE 7":  [
+                                             "PREMIERE 7 HD"
+                                         ],
+                          "Premiere 8":  [
+                                             "Premiere 8"
+                                         ],
+                          "Paramount+ 2":  [
+                                               "Paramount+ 2"
+                                           ],
+                          "Paramount+ 3":  [
+                                               "Paramount+ 3"
+                                           ],
+                          "Paramount+ 4":  [
+                                               "Paramount+ 4"
+                                           ],
+                          "Globoplay Novelas":  [
+                                                    "globoplay-novelas"
+                                                ],
+                          "GAZETA":  [
+                                         "GAZETA"
+                                     ],
+                          "CNN BRASIL":  [
+                                             "CNN BRASIL"
+                                         ],
+                          "JOVEM PAN NEWS":  [
+                                                 "Jovem.Pan.News.br"
+                                             ],
+                          "Paramount+ 1":  [
+                                               "Paramount+ 1"
+                                           ]
                       }
 }
