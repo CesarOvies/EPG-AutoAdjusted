@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="EPG-AutoAdjusted" date="20261103144239 -0300">
+<tv generator-info-name="EPG-AutoAdjusted" date="20261103145414 -0300">
   <channel id="ae.br">
     <display-name>A&amp;E</display-name>
     <display-name>A&amp;E.co</display-name>
@@ -50577,14 +50577,6 @@
     <display-name>YUPI (4K UHD)</display-name>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/87/22877741_6283C6AFC1D9B23D.png" />
   </channel>
-  <programme start="20261103120000 -0300" stop="20261103125000 -0300" channel="ae.br">
-    <title lang="pt">Acumuladores Compulsivos</title>
-    <sub-title lang="pt">Judy</sub-title>
-    <desc lang="pt">A vida de Judy é cheia de contradições: devido a uma fobia de germes, ela passa o dia inteiro envolvida em rituais de sanitização, mas mora numa casa imunda, cheia de coisas e de ratos.</desc>
-    <category lang="pt">SERIES</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000062726_epg.jpg" />
-    <episode-num system="xmltv_ns">7.99.</episode-num>
-  </programme>
   <programme start="20261103125000 -0300" stop="20261103142000 -0300" channel="ae.br">
     <title lang="pt">Acumuladores Compulsivos</title>
     <sub-title lang="pt">Canada: 008</sub-title>
@@ -51128,12 +51120,12 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000117447_epg.jpg" />
     <episode-num system="xmltv_ns">1.36.</episode-num>
   </programme>
-  <programme start="20261103122600 -0300" stop="20261103125200 -0300" channel="adultswim.br">
-    <title lang="pt">Dragon Ball Daima</title>
-    <desc lang="pt">Uma super aventura com Goku (Mini) e amigos, que agora se tornaram bem pequenos. Fique ligado para um mundo de Dragon Ball como você nunca viu antes!</desc>
-    <category lang="pt">VARIEDADES</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000116658_epg.jpg" />
-    <episode-num system="xmltv_ns">11.306.</episode-num>
+  <programme start="20261105144800 -0300" stop="20261105151300 -0300" channel="ae.br">
+    <title lang="pt">Polícia Em Ação</title>
+    <desc lang="pt">Mandado de prisão cumprido na Flórida, assistência à Patrulha da Fronteira no Texas e um homem fugindo da polícia em Washington.</desc>
+    <category lang="pt">SERIES</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000117447_epg.jpg" />
+    <episode-num system="xmltv_ns">1.37.</episode-num>
   </programme>
   <programme start="20261103125200 -0300" stop="20261103131600 -0300" channel="adultswim.br">
     <title lang="pt">Dragon Ball Z Kai</title>
@@ -54497,14 +54489,6 @@
     <category lang="pt">VARIEDADES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000107577_epg.jpg" />
     <episode-num system="xmltv_ns">30.6.</episode-num>
-  </programme>
-  <programme start="20261103115500 -0300" stop="20261103125000 -0300" channel="axn.br">
-    <title lang="pt">NCIS</title>
-    <sub-title lang="pt">The North Pole</sub-title>
-    <desc lang="pt">Gibbs e sua equipe dão assistência a Ziva (a atriz convidada Cote de Pablo) para conseguir "a única coisa" de que ela precisa cuidar antes de voltar pra casa com sua família.</desc>
-    <category lang="pt">SERIES</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000040787_epg.jpg" />
-    <episode-num system="xmltv_ns">16.9.</episode-num>
   </programme>
   <programme start="20261103125000 -0300" stop="20261103134500 -0300" channel="axn.br">
     <title lang="pt">Criminal Minds</title>
@@ -58367,12 +58351,6 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000112430_epg.jpg" />
     <episode-num system="xmltv_ns">0.308.</episode-num>
   </programme>
-  <programme start="20261103124000 -0300" stop="20261103125000 -0300" channel="boxkids.br">
-    <title lang="pt">Jogos de Inventar : Charada da Bicharada</title>
-    <desc lang="pt">As crianças se fantasiam de bichos que usam vários sentidos para buscarem seus alimentos. Revezando entre narração e ação, cada bichinho é representado por uma criança fantasiada, com o rosto aparecendo.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/31/21311571_184FDF9EF72859DD.jpg" />
-    <episode-num system="xmltv_ns">2018.0.</episode-num>
-  </programme>
   <programme start="20261103125000 -0300" stop="20261103130000 -0300" channel="boxkids.br">
     <title lang="pt">Jogos de Inventar : Guci Guci</title>
     <desc lang="pt">As crianças estão ao redor da pequena Nina, e é uma festa: elas mimam a bebê com beijos e abraços. Mas quando Nina chora, as crianças precisam entender o que a bebê quer: uma mamadeira.</desc>
@@ -61247,6 +61225,18 @@
     <desc lang="pt">Descubra como vivem as aranhas e sua família.</desc>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/37/21377760_12B3BD83F8D72524.jpg" />
     <episode-num system="xmltv_ns">2022.0.</episode-num>
+  </programme>
+  <programme start="20261105144500 -0300" stop="20261105145200 -0300" channel="boxkids.br">
+    <title lang="pt">Ding-Ding Pula : Celular</title>
+    <desc lang="pt">Ding-Ding e os amigos encontram um celular no quintal e ficam curiosos para saber mais do aparelho.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/81/22816297_4246ba087b8815919939f41da333266f.jpg" />
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+  </programme>
+  <programme start="20261105145200 -0300" stop="20261105150000 -0300" channel="boxkids.br">
+    <title lang="pt">Ding-Ding Pula : Bicicleta</title>
+    <desc lang="pt">Ding-Ding mostra aos amigos como funciona uma bicicleta, já que Dino Biba não sabe andar com uma.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/81/22816346_252e2b60d991bf59c27178fd88c592dc.jpg" />
+    <episode-num system="xmltv_ns">0.11.</episode-num>
   </programme>
   <programme start="20261103120000 -0300" stop="20261103130000 -0300" channel="c3tv.br">
     <title lang="pt">Sucesso No Campo</title>
@@ -64378,6 +64368,13 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000115563_epg.jpg" />
     <episode-num system="xmltv_ns">13.308.</episode-num>
   </programme>
+  <programme start="20261105144500 -0300" stop="20261105150000 -0300" channel="canaleducacao.br">
+    <title lang="pt">Minha Casa, Nosso Mundo</title>
+    <desc lang="pt">Uma aldeia Pataxó, um circo paulista ou uma fazenda baiana são alguns dos destinos de 13 crianças que vivem experiências únicas quando partem para conhecer a casa, oshábitos e a cultura umas das outras.</desc>
+    <category lang="pt">VARIEDADES</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000117515_epg.jpg" />
+    <episode-num system="xmltv_ns">13.308.</episode-num>
+  </programme>
   <programme start="20261103123000 -0300" stop="20261103130000 -0300" channel="canalgov.br">
     <title lang="pt">Brasil em Dia - Ao Vivo</title>
     <desc lang="pt">Programa jornalístico com informações atualizadas do dia.</desc>
@@ -65027,6 +65024,13 @@
     <desc lang="pt">Um resumo dos atos do Poder Executivo que foram exibidos ao vivo durante o dia.</desc>
     <category lang="pt">VARIEDADES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001122614_epg.jpg" />
+  </programme>
+  <programme start="20261105144500 -0300" stop="20261105150000 -0300" channel="canalgov.br">
+    <title lang="pt">Criança de Raiz</title>
+    <desc lang="pt">Crianças do Brasil e da África, que vivem rodeadas pela Natureza, Cultura e Tradição, nos convidam a reviver a alegria das brincadeiras de Infância.</desc>
+    <category lang="pt">VARIEDADES</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000116437_epg.jpg" />
+    <episode-num system="xmltv_ns">13.308.</episode-num>
   </programme>
   <programme start="20261103120000 -0300" stop="20261103130000 -0300" channel="canalrural.br">
     <title lang="pt">Mercado &amp; Cia</title>
@@ -66106,13 +66110,6 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000115878_epg.jpg" />
     <episode-num system="xmltv_ns">0.308.</episode-num>
   </programme>
-  <programme start="20261103120000 -0300" stop="20261103125000 -0300" channel="cancaonova.br">
-    <title lang="pt">Santa Missa</title>
-    <desc lang="pt">Apice da Espiritualidade Católica.</desc>
-    <category lang="pt">CANAIS ABERTOS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000081385_epg.jpg" />
-    <episode-num system="xmltv_ns">11.306.</episode-num>
-  </programme>
   <programme start="20261103125000 -0300" stop="20261103130000 -0300" channel="cancaonova.br">
     <title lang="pt">Boletim de Notícias</title>
     <desc lang="pt">São pequenos boletins apresentados ao longo da programação que exibe notícias atuais sobre o cotidiano brasileiro. As informações abrangem o Brasil e o mundo.</desc>
@@ -66652,18 +66649,6 @@
     <category lang="pt">CANAIS ABERTOS</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000102341_epg.jpg" />
     <episode-num system="xmltv_ns">12.308.</episode-num>
-  </programme>
-  <programme start="20261103122900 -0300" stop="20261103124400 -0300" channel="carastv.br">
-    <title lang="pt">Casa Decorada : Elaine Carvalho</title>
-    <desc lang="pt">Tours por mansões, residências de luxo e projetos com foco em design de interiores e paisagismo.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/74/23746358_1b290fb994abaf19c3bce3dee97195ae.jpg" />
-    <episode-num system="xmltv_ns">0.104.</episode-num>
-  </programme>
-  <programme start="20261103124400 -0300" stop="20261103124900 -0300" channel="carastv.br">
-    <title lang="pt">Casa Decorada : Elaine Carvalho</title>
-    <desc lang="pt">Tours por mansões, residências de luxo e projetos com foco em design de interiores e paisagismo.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/74/23746358_1b290fb994abaf19c3bce3dee97195ae.jpg" />
-    <episode-num system="xmltv_ns">0.104.</episode-num>
   </programme>
   <programme start="20261103124900 -0300" stop="20261103130600 -0300" channel="carastv.br">
     <title lang="pt">Podcast Conexão</title>
@@ -67976,13 +67961,11 @@
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/28/59/28593109_3c9b07a4f3c1393016c541b2c1a21bcc.jpg" />
     <episode-num system="xmltv_ns">0.8.</episode-num>
   </programme>
-  <programme start="20261103123700 -0300" stop="20261103124800 -0300" channel="cartoon.br">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Homem Mágico</sub-title>
-    <desc lang="pt">Numa jornada para se tornar um homem mágico, Mutano sem querer destrói o livro de feitiços de Ravena e eles partem para encontrar outro.</desc>
-    <category lang="pt">INFANTIS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072363_epg.jpg" />
-    <episode-num system="xmltv_ns">5.272.</episode-num>
+  <programme start="20261105144800 -0300" stop="20261105150700 -0300" channel="carastv.br">
+    <title lang="pt">Caras Doc Internacional : Rihanna</title>
+    <desc lang="pt">A trajetória e os desafios das maiores estrelas de Hollywood.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/28/59/28593143_e69e75929a2255e6d73a53476a4a4404.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
   <programme start="20261103124800 -0300" stop="20261103130000 -0300" channel="cartoon.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -70088,21 +70071,13 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000062276_epg.jpg" />
     <episode-num system="xmltv_ns">9.282.</episode-num>
   </programme>
-  <programme start="20261103123700 -0300" stop="20261103124600 -0300" channel="cartoonito.br">
-    <title lang="pt">Booba</title>
-    <sub-title lang="pt">Abelha</sub-title>
-    <desc lang="pt">Booba irritou uma abelha e agora esconde-se dela na casa dos amigos. Em que confusão irá ele meter-se? E será que vai fazer amizade com o inseto fofo?</desc>
+  <programme start="20261105144500 -0300" stop="20261105145600 -0300" channel="cartoon.br">
+    <title lang="pt">Hora de Aventura</title>
+    <sub-title lang="pt">Finn, o Humano</sub-title>
+    <desc lang="pt">Após perseguirem o Lich pelo portal, Finn e Jake conhecem um mestre dos desejos chamado Prismo. Finn e Jake se infiltram no Reino de Fogo por causa de algumas velas perfumadas e acabam descobrindo uma trama contra o rei.</desc>
     <category lang="pt">INFANTIS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000117263_epg.jpg" />
-    <episode-num system="xmltv_ns">4.3.</episode-num>
-  </programme>
-  <programme start="20261103124600 -0300" stop="20261103125300 -0300" channel="cartoonito.br">
-    <title lang="pt">Booba</title>
-    <sub-title lang="pt">O Convidado Inesperado</sub-title>
-    <desc lang="pt">Booba recebe a visita de um convidado inesperado, e suas brincadeiras mergulham a casa no caos.</desc>
-    <category lang="pt">INFANTIS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000117263_epg.jpg" />
-    <episode-num system="xmltv_ns">4.13.</episode-num>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000062276_epg.jpg" />
+    <episode-num system="xmltv_ns">4.52.</episode-num>
   </programme>
   <programme start="20261103125300 -0300" stop="20261103130000 -0300" channel="cartoonito.br">
     <title lang="pt">Booba</title>
@@ -72871,6 +72846,14 @@
     <category lang="pt">INFANTIS</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000110135_epg.jpg" />
     <episode-num system="xmltv_ns">0.25.</episode-num>
+  </programme>
+  <programme start="20261105144300 -0300" stop="20261105145500 -0300" channel="cartoonito.br">
+    <title lang="pt">Batwheels</title>
+    <sub-title lang="pt">Quando Se é um Jato</sub-title>
+    <desc lang="pt">Bam, Redbird, Bibi, Batwing e Buff aprendem lições importantes sobre trabalho em equipe e amizade, enquanto ajudam Batman, Robin e Batgirl a defenderem Gotham.</desc>
+    <category lang="pt">INFANTIS</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000110135_epg.jpg" />
+    <episode-num system="xmltv_ns">0.30.</episode-num>
   </programme>
   <programme start="20261103120000 -0300" stop="20261103130000 -0300" channel="cbi.br">
     <title lang="pt">Mensagem Amiga</title>
@@ -77894,12 +77877,11 @@
     <category lang="pt">ESPORTES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000686329_epg.jpg" />
   </programme>
-  <programme start="20261103120000 -0300" stop="20261103124500 -0300" channel="cultura.br">
-    <title lang="pt">Jornal da Tarde</title>
-    <desc lang="pt">Apresentado por Aldo Quiroga e Joyce Ribeiro, o Jornal da Tarde traz um olhar mais atento para temas de interesse de toda a família, como saúde, educação, consumo e mobilidade.</desc>
-    <category lang="pt">CANAIS ABERTOS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000097962_epg.jpg" />
-    <episode-num system="xmltv_ns">81.306.</episode-num>
+  <programme start="20261105145000 -0300" stop="20261105155000 -0300" channel="combate.br">
+    <title lang="pt">Mundo Da Luta - Ep.13</title>
+    <desc lang="pt">Notícias, análises, entrevistas e os principais destaques do universo das artes marciais, com informações e bastidores dos grandes eventos de luta.</desc>
+    <category lang="pt">ESPORTES</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000686329_epg.jpg" />
   </programme>
   <programme start="20261103124500 -0300" stop="20261103130000 -0300" channel="cultura.br">
     <title lang="pt">Cocoricó Conta Clássicos</title>
@@ -78853,6 +78835,13 @@
     <category lang="pt">CANAIS ABERTOS</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000751154_epg.jpg" />
   </programme>
+  <programme start="20261105144500 -0300" stop="20261105150000 -0300" channel="cultura.br">
+    <title lang="pt">Quintal TV</title>
+    <desc lang="pt">Com uma linguagem lúdica e leve, Quintal TV trata de um diferente tema contemporâneo por episódio, pelo olhar diverso de crianças, especialistas e cuidadores.</desc>
+    <category lang="pt">CANAIS ABERTOS</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000104824_epg.jpg" />
+    <episode-num system="xmltv_ns">13.308.</episode-num>
+  </programme>
   <programme start="20261103123000 -0300" stop="20261103130000 -0300" channel="curta.br">
     <title lang="pt">Impressões do Brasil: Elisa Lucinda</title>
     <desc lang="pt">Elisa Lucinda Campos Gomes é considerada a artista da sua geração que mais populariza poesia, seu modo coloquial de se expressar faz o mais complexo pensamento ganhar fácil compreensão.</desc>
@@ -79775,13 +79764,13 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071631_epg.jpg" />
     <episode-num system="xmltv_ns">1.10.</episode-num>
   </programme>
-  <programme start="20261103115500 -0300" stop="20261103124600 -0300" channel="discoveryhomehealth.br">
-    <title lang="pt">Do Velho Ao Novo</title>
-    <sub-title lang="pt">Vista Aprazível</sub-title>
-    <desc lang="pt">Os novos clientes de Chip e Jo procuram uma casa com uma bela vista e bastante espaço para os netos. Depois de uma procura frustrante, Chip e Jo pensam em um plano criativo para realizar seu sonho.</desc>
-    <category lang="pt">VARIEDADES</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000085681_epg.jpg" />
-    <episode-num system="xmltv_ns">4.11.</episode-num>
+  <programme start="20261105144900 -0300" stop="20261105153900 -0300" channel="discovery.br">
+    <title lang="pt">Largados e Pelados</title>
+    <sub-title lang="pt">23 Dias</sub-title>
+    <desc lang="pt">A cada semana um homem e uma mulher são levados a um dos ambientes de clima mais extremo do mundo. Os dois ficarão literalmente expostos, já que serão deixados sem comida, sem água... e sem roupas.</desc>
+    <category lang="pt">DOCUMENTARIOS</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071631_epg.jpg" />
+    <episode-num system="xmltv_ns">1.11.</episode-num>
   </programme>
   <programme start="20261103124600 -0300" stop="20261103133800 -0300" channel="discoveryhomehealth.br">
     <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
@@ -82108,13 +82097,21 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000083575_epg.jpg" />
     <episode-num system="xmltv_ns">2.11.</episode-num>
   </programme>
-  <programme start="20261103120000 -0300" stop="20261103124800 -0300" channel="discoveryscience.br">
-    <title lang="pt">Códigos e Conspirações</title>
-    <sub-title lang="pt">Las Vegas</sub-title>
-    <desc lang="pt">Conheça os segredos sórdidos de Las Vegas, onde os cassinos mantêm seus clientes jogando - e perdendo. Saiba por que a cidade foi alvo de uma sabotagem nazista e de testes nucleares.</desc>
-    <category lang="pt">DOCUMENTARIOS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000075552_epg.jpg" />
-    <episode-num system="xmltv_ns">1.0.</episode-num>
+  <programme start="20261105144600 -0300" stop="20261105145100 -0300" channel="discoverykids.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <sub-title lang="pt">O Bicho da Fama Parte</sub-title>
+    <desc lang="pt">Nesta divertida série de animação, acompanhe as divertidas aventuras de uma banda de músicos formada por bebês.</desc>
+    <category lang="pt">INFANTIS</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000083575_epg.jpg" />
+    <episode-num system="xmltv_ns">4.18.</episode-num>
+  </programme>
+  <programme start="20261105145100 -0300" stop="20261105145600 -0300" channel="discoverykids.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <sub-title lang="pt">Balance a Árvore!</sub-title>
+    <desc lang="pt">Nesta divertida série de animação, acompanhe as divertidas aventuras de uma banda de músicos formada por bebês.</desc>
+    <category lang="pt">INFANTIS</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000083575_epg.jpg" />
+    <episode-num system="xmltv_ns">4.16.</episode-num>
   </programme>
   <programme start="20261103124800 -0300" stop="20261103133600 -0300" channel="discoveryscience.br">
     <title lang="pt">O Grande Eclipse</title>
@@ -82611,14 +82608,6 @@
     <category lang="pt">DOCUMENTARIOS</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000116419_epg.jpg" />
     <episode-num system="xmltv_ns">0.4.</episode-num>
-  </programme>
-  <programme start="20261103120000 -0300" stop="20261103124800 -0300" channel="discoverytheater.br">
-    <title lang="pt">Pesca Mortal</title>
-    <sub-title lang="pt">Aspirante a Capitão</sub-title>
-    <desc lang="pt">À beira da falência, Josh Harris descobre áreas de pesca secretas nos antigos diários de seu pai. Um contratempo no convés do Saga pode encerrar a temporada de Jake. A Guarda Costeira tenta resgatar um marinheiro em apuros.</desc>
-    <category lang="pt">DOCUMENTARIOS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000044863_epg.jpg" />
-    <episode-num system="xmltv_ns">13.7.</episode-num>
   </programme>
   <programme start="20261103124800 -0300" stop="20261103133600 -0300" channel="discoverytheater.br">
     <title lang="pt">Rota Perigosa</title>
@@ -83147,13 +83136,6 @@
     <category lang="pt">DOCUMENTARIOS</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000109732_epg.jpg" />
     <episode-num system="xmltv_ns">0.3.</episode-num>
-  </programme>
-  <programme start="20261103120000 -0300" stop="20261103124500 -0300" channel="discoveryturbo.br">
-    <title lang="pt">Oficinaço</title>
-    <desc lang="pt">Conhecido por seu desempenho, o Pontiac GTO 1969 é um dos carros mais rápidos de sua época. Joe deixará sua marca no carro com modificações na carroceria e ainda mais potência.</desc>
-    <category lang="pt">DOCUMENTARIOS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000079985_epg.jpg" />
-    <episode-num system="xmltv_ns">1.5.</episode-num>
   </programme>
   <programme start="20261103124500 -0300" stop="20261103133000 -0300" channel="discoveryturbo.br">
     <title lang="pt">Carros Irados</title>
@@ -83704,14 +83686,6 @@
     <category lang="pt">DOCUMENTARIOS</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000076145_epg.jpg" />
     <episode-num system="xmltv_ns">4.13.</episode-num>
-  </programme>
-  <programme start="20261103122400 -0300" stop="20261103124800 -0300" channel="discoveryworld.br">
-    <title lang="pt">Vende-se Pântano</title>
-    <sub-title lang="pt">À Prova de Furacão</sub-title>
-    <desc lang="pt">Esta série mostra pessoas chegando a extremos para ter um refúgio na beira do pântano de seus sonhos - seja uma fazenda de aligatores ou um barco de pesca reformado.</desc>
-    <category lang="pt">DOCUMENTARIOS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000075191_epg.jpg" />
-    <episode-num system="xmltv_ns">0.6.</episode-num>
   </programme>
   <programme start="20261103124800 -0300" stop="20261103131200 -0300" channel="discoveryworld.br">
     <title lang="pt">Casas de Férias Incríveis</title>
@@ -84563,6 +84537,14 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000091127_epg.jpg" />
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
+  <programme start="20261105144800 -0300" stop="20261105151200 -0300" channel="discoveryworld.br">
+    <title lang="pt">Viciados em Viagens</title>
+    <sub-title lang="pt">Israel</sub-title>
+    <desc lang="pt">David Arquette e Mike McGuiness aterrissam em Tel Aviv, Israel.</desc>
+    <category lang="pt">DOCUMENTARIOS</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000101347_epg.jpg" />
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
   <programme start="20261103120000 -0300" stop="20261103180000 -0300" channel="dogtv.br">
     <title lang="pt">Programação Dog TV</title>
     <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90</desc>
@@ -85336,38 +85318,6 @@
     <desc lang="pt">O "pior bebê do mundo" está aterrorizando a vizinhança e o Chefinho deve resolver a situação.</desc>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/28/09/28095169_f80ff3d7595b4a65d80cd2523457a660.jpg" />
     <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261103123852 -0300" stop="20261103124224 -0300" channel="dumdum.br">
-    <title lang="pt">Os Sonhos de Tito</title>
-    <sub-title lang="pt">Música Do Astronauta</sub-title>
-    <desc lang="pt">Em mais uma noite de sono, tito e pingo vão sonhar e aprender o que faz um coletor de lixo.</desc>
-    <category lang="pt">INFANTIS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113372_epg.jpg" />
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-  </programme>
-  <programme start="20261103124224 -0300" stop="20261103124615 -0300" channel="dumdum.br">
-    <title lang="pt">Os Sonhos de Tito</title>
-    <sub-title lang="pt">Música Do Cientista</sub-title>
-    <desc lang="pt">Em mais uma noite de sono, tito e pingo vão sonhar e aprender o que faz um coletor de lixo.</desc>
-    <category lang="pt">INFANTIS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113372_epg.jpg" />
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-  </programme>
-  <programme start="20261103124615 -0300" stop="20261103124927 -0300" channel="dumdum.br">
-    <title lang="pt">Malu Na Cidade Das Emoções</title>
-    <sub-title lang="pt">A Raiva</sub-title>
-    <desc lang="pt">Neste episódio, malu está se sentindo muito eufórica e vai até a cidade das emoções conhecer a euforia.</desc>
-    <category lang="pt">INFANTIS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000112317_epg.jpg" />
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20261103124927 -0300" stop="20261103125242 -0300" channel="dumdum.br">
-    <title lang="pt">Malu Na Cidade Das Emoções</title>
-    <sub-title lang="pt">Videoclipe da Raiva</sub-title>
-    <desc lang="pt">Neste episódio, malu está se sentindo muito eufórica e vai até a cidade das emoções conhecer a euforia.</desc>
-    <category lang="pt">INFANTIS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000112317_epg.jpg" />
-    <episode-num system="xmltv_ns">0.12.</episode-num>
   </programme>
   <programme start="20261103125242 -0300" stop="20261103125635 -0300" channel="dumdum.br">
     <title lang="pt">Malu Na Cidade Das Emoções</title>
@@ -88874,6 +88824,22 @@
     <category lang="pt">INFANTIS</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114091_epg.jpg" />
     <episode-num system="xmltv_ns">0.14.</episode-num>
+  </programme>
+  <programme start="20261105144344 -0300" stop="20261105144720 -0300" channel="dumdum.br">
+    <title lang="pt">Tina Curiosa</title>
+    <sub-title lang="pt">Por Que Perdemos os Dentes de Leite?</sub-title>
+    <desc lang="pt">Professor Caco Vai Explicar Para Tina Porque Piscamos.</desc>
+    <category lang="pt">INFANTIS</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114091_epg.jpg" />
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+  </programme>
+  <programme start="20261105144720 -0300" stop="20261105150056 -0300" channel="dumdum.br">
+    <title lang="pt">Mundo de Kaboo</title>
+    <sub-title lang="pt">Desafio Com Bolinha De Ping-pong</sub-title>
+    <desc lang="pt">Hoje vamos fazer arte usando números e letras como base do desenho. Essa é uma ótima atividade para trabalharmos a nossa criatividade.</desc>
+    <category lang="pt">INFANTIS</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000112661_epg.jpg" />
+    <episode-num system="xmltv_ns">1.13.</episode-num>
   </programme>
   <programme start="20261103123000 -0300" stop="20261103130000 -0300" channel="dw.br">
     <title lang="pt">¿Cómo te afecta?</title>
@@ -93644,6 +93610,13 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000086929_epg.jpg" />
     <episode-num system="xmltv_ns">9.1.</episode-num>
   </programme>
+  <programme start="20261105144500 -0300" stop="20261105150000 -0300" channel="fashiontv.br">
+    <title lang="pt">Entre Linhas</title>
+    <desc lang="pt">Em Entrelinhas, exploramos os bastidores da moda, da arte e da criação em Portugal através de histórias que revelam muito mais do que estética: falam de identidade, tradição, inovação e propósito.</desc>
+    <category lang="pt">VARIEDADES</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000931540_epg.jpg" />
+    <episode-num system="xmltv_ns">13.308.</episode-num>
+  </programme>
   <programme start="20261103123500 -0300" stop="20261103130000 -0300" channel="filmarts.br">
     <title lang="pt">Os Palhaços De Hofesh Shechter</title>
     <desc lang="pt">Clowns, de Hofesh Shechter, é reinventada pela primeira vez para a tela em uma produção ousada e eletrizante.</desc>
@@ -93965,6 +93938,14 @@
     <category lang="pt">FILMES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000686345_epg.jpg" />
     <episode-num system="xmltv_ns">3.1.</episode-num>
+  </programme>
+  <programme start="20261105145000 -0300" stop="20261105153500 -0300" channel="filmarts.br">
+    <title lang="pt">All Creatures Great &amp; Small</title>
+    <sub-title lang="pt">A Mão Direita</sub-title>
+    <desc lang="pt">Após a chegada do precoce estudante de veterinária Richard Carmody, James se pergunta se seu lugar como a mão direita de Siegfried está em risco. Enquanto isso, Helen fica frustrada com a falta de tempo de qualidade com James.</desc>
+    <category lang="pt">FILMES</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000686345_epg.jpg" />
+    <episode-num system="xmltv_ns">3.2.</episode-num>
   </programme>
   <programme start="20261103123000 -0300" stop="20261103130000 -0300" channel="fishtv.br">
     <title lang="pt">Elas na Pesca</title>
@@ -95802,13 +95783,6 @@
     <desc lang="pt">Quatro mulheres e um homem mostram suas perspectivas sobre as principais notícias do dia.</desc>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/93/21933848_2e557f75ef2265b5d828bc1df8863690.jpg" />
     <episode-num system="xmltv_ns">0.224.</episode-num>
-  </programme>
-  <programme start="20261103123000 -0300" stop="20261103124500 -0300" channel="france24.br">
-    <title lang="pt">Esrpl Noticias</title>
-    <desc lang="pt">Notícias de última hora e notícias do mundo da France 24 em Negócios, Esportes, Cultura. Notícias em vídeo. Notícias dos EUA, Europa, Ásia-Pacífico, África, Oriente Médio, América.</desc>
-    <category lang="pt">NOTICIAS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000921582_epg.jpg" />
-    <episode-num system="xmltv_ns">81.306.</episode-num>
   </programme>
   <programme start="20261103124500 -0300" stop="20261103125900 -0300" channel="france24.br">
     <title lang="pt">África 7 Dias</title>
@@ -97788,6 +97762,13 @@
     <category lang="pt">NOTICIAS</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000921582_epg.jpg" />
     <episode-num system="xmltv_ns">83.308.</episode-num>
+  </programme>
+  <programme start="20261105144500 -0300" stop="20261105145900 -0300" channel="france24.br">
+    <title lang="pt">Corresponsales</title>
+    <desc lang="pt">Um convite para dar a volta ao mundo com as melhores produções da nossa rede global de correspondentes. Não perca este novo programa France 24 todas as terças-feiras.</desc>
+    <category lang="pt">NOTICIAS</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000921582_epg.jpg" />
+    <episode-num system="xmltv_ns">13.308.</episode-num>
   </programme>
   <programme start="20261103123000 -0300" stop="20261103130000 -0300" channel="fueltv.br">
     <title lang="pt">Built To Shred</title>
@@ -100466,6 +100447,13 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072190_epg.jpg" />
     <episode-num system="xmltv_ns">82.308.</episode-num>
   </programme>
+  <programme start="20261105144500 -0300" stop="20261105152500 -0300" channel="globosp.br">
+    <title lang="pt">Roque Santeiro</title>
+    <desc lang="pt">Ambientada na fictícia Asa Branca, a trama gira em torno de Roque Santeiro, artesão de santos que teria morrido ao defender a cidade do temido bandido Navalhada.</desc>
+    <category lang="pt">CANAIS ABERTOS</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000065072_epg.jpg" />
+    <episode-num system="xmltv_ns">83.308.</episode-num>
+  </programme>
   <programme start="20261103110000 -0300" stop="20261103130000 -0300" channel="globonews.br">
     <title lang="pt">Conexão GloboNews - Ao Vivo</title>
     <desc lang="pt">A notícia com um olhar único. Apresentado por Leilane Neubarth, no Rio de Janeiro; Camila Bomfim, em Brasília; e Rafael Colombo, em São Paulo.</desc>
@@ -101168,14 +101156,6 @@
     <category lang="pt">VARIEDADES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000069197_epg.jpg" />
     <episode-num system="xmltv_ns">83.308.</episode-num>
-  </programme>
-  <programme start="20261103122400 -0300" stop="20261103124700 -0300" channel="gloob.br">
-    <title lang="pt">Miraculous - As Aventuras De Ladybug</title>
-    <sub-title lang="pt">Chrysalis (A Hora Certa - Parte 2)</sub-title>
-    <desc lang="pt">Enquanto Marinette e Adrien tentam encontrar o momento certo para dizer uma coisa importante um para o outro, sua colega de classe Aglaé está correndo o risco de ser akumatizada.</desc>
-    <category lang="pt">INFANTIS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000115186_epg.jpg" />
-    <episode-num system="xmltv_ns">6.1.</episode-num>
   </programme>
   <programme start="20261103124700 -0300" stop="20261103131200 -0300" channel="gloob.br">
     <title lang="pt">D.P.A. - Detetives Do Prédio A</title>
@@ -102082,14 +102062,6 @@
     <desc lang="pt">Antes de conhecer Sherk e a sua turma, moradores de uma pequena cidade pedem ajuda ao Gato de Botas para impedir que os fora da lei usem feijões mágicos para o mal.</desc>
     <category lang="pt">INFANTIS</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001211173_epg.jpg" />
-  </programme>
-  <programme start="20261103124000 -0300" stop="20261103125000 -0300" channel="gloobinho.br">
-    <title lang="pt">Alice &amp; Lewis</title>
-    <sub-title lang="pt">Votem na Alice</sub-title>
-    <desc lang="pt">Alice está cansada de perder todas as disputas. Então, ela decide se candidatar às eleições do País das Maravilhas contra Lewis: o vencedor será o guardião do Relógio.</desc>
-    <category lang="pt">INFANTIS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000106097_epg.jpg" />
-    <episode-num system="xmltv_ns">0.30.</episode-num>
   </programme>
   <programme start="20261103125000 -0300" stop="20261103130000 -0300" channel="gloobinho.br">
     <title lang="pt">Alice &amp; Lewis</title>
@@ -105209,6 +105181,14 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113925_epg.jpg" />
     <episode-num system="xmltv_ns">0.6.</episode-num>
   </programme>
+  <programme start="20261105145000 -0300" stop="20261105150000 -0300" channel="gloobinho.br">
+    <title lang="pt">S.O.S. Fada Manu</title>
+    <sub-title lang="pt">A Fada Da Pena</sub-title>
+    <desc lang="pt">Manu quer ajudar o Patinho Feio com a queda de penas, mas o feitiço não dá certo. Para provar que é uma fada profissional, inventa uma mentira e acaba se enrolando com os moradores do Reino.</desc>
+    <category lang="pt">INFANTIS</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000107006_epg.jpg" />
+    <episode-num system="xmltv_ns">3.11.</episode-num>
+  </programme>
   <programme start="20261103123400 -0300" stop="20261103132300 -0300" channel="gnt.br">
     <title lang="pt">Alma De Cozinheira</title>
     <sub-title lang="pt">Fernanda Paes Leme e Silvero Pereira</sub-title>
@@ -107317,14 +107297,6 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000115199_epg.jpg" />
     <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
-  <programme start="20261103122600 -0300" stop="20261103124800 -0300" channel="hgtv.br">
-    <title lang="pt">Tendas Modernas</title>
-    <sub-title lang="pt">Um Yurt Na Floresta Tropical</sub-title>
-    <desc lang="pt">Jenny e Nathan correm contra o tempo e enfrentam a fúria dos elementos para concluir um yurt dentro do prazo.</desc>
-    <category lang="pt">VARIEDADES</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000091964_epg.jpg" />
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-  </programme>
   <programme start="20261103124800 -0300" stop="20261103130900 -0300" channel="hgtv.br">
     <title lang="pt">Negócio Fechado com Jason Abrams</title>
     <sub-title lang="pt">Uma Mansão para Brandon McCarthy</sub-title>
@@ -109057,6 +109029,14 @@
     <category lang="pt">DOCUMENTARIOS</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000040261_epg.jpg" />
     <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20261105144400 -0300" stop="20261105153200 -0300" channel="history2.br">
+    <title lang="pt">Mundos Perdidos</title>
+    <sub-title lang="pt">Ramsés e o Império Egípcio</sub-title>
+    <desc lang="pt">No século 13 antes de Cristo, o faraó Ramsés tentou fazer história como o maior dominador da antiguidade. Estátuas colossais, obeliscos gigantescos e templos escavados na rocha foram seus meios de conquista.</desc>
+    <category lang="pt">DOCUMENTARIOS</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000040261_epg.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
   <programme start="20261103121700 -0300" stop="20261103130100 -0300" channel="id.br">
     <title lang="pt">Diabólicos - A Face Oculta do Amor</title>
@@ -114580,13 +114560,6 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001035395_epg.jpg" />
     <episode-num system="xmltv_ns">13.308.</episode-num>
   </programme>
-  <programme start="20261103123000 -0300" stop="20261103124500 -0300" channel="markket.br">
-    <title lang="pt">Pra Carreiras</title>
-    <desc lang="pt">Carolina Okubo orienta profissionais com dicas práticas para conquistar empregos com propósito e reconhecimento.</desc>
-    <category lang="pt">VARIEDADES</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001127785_epg.jpg" />
-    <episode-num system="xmltv_ns">0.306.</episode-num>
-  </programme>
   <programme start="20261103124500 -0300" stop="20261103131500 -0300" channel="markket.br">
     <title lang="pt">Conversa Desfiada</title>
     <desc lang="pt">Conversa Desfiada aborda saúde mental, comportamento e os desafios da vida contemporânea, promovendo reflexões sobre as emoções, as relações e as transformações do indivíduo e da sociedade.</desc>
@@ -115297,6 +115270,13 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001127785_epg.jpg" />
     <episode-num system="xmltv_ns">13.308.</episode-num>
   </programme>
+  <programme start="20261105144500 -0300" stop="20261105154500 -0300" channel="markket.br">
+    <title lang="pt">(Re)contar</title>
+    <desc lang="pt">A influente jornalista Rosane de Oliveira conta os bastidores da cobertura política gaúcha e memórias marcantes.</desc>
+    <category lang="pt">VARIEDADES</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001127785_epg.jpg" />
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+  </programme>
   <programme start="20261103112500 -0300" stop="20261103134000 -0300" channel="megapix.br">
     <title lang="pt">A Batalha De Riddick</title>
     <desc lang="pt">Os Necromongers querem converter o universo à sua religião. Perseguido por mercenários, Riddick entra na guerra e se torna a única esperança contra eles.</desc>
@@ -115459,11 +115439,11 @@
     <category lang="pt">FILMES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000724139_epg.jpg" />
   </programme>
-  <programme start="20261103111900 -0300" stop="20261103124600 -0300" channel="mezzo.br">
-    <title lang="pt">Mahler: Symphony No.9 - Orchestre Suisse Romande, Jonathan Nott</title>
-    <desc lang="pt">Orchestre de la Suisse Romande, Jonathan Nott (Maestro), Sergey Khachatryan (violino), Benjamin Britten (1913-1976). Peter Grimes, Four Sea Interludes op. 33. Dmitri Shostakovich (1906 - 1975).</desc>
-    <category lang="pt">MUSICA</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000921581_epg.jpg" />
+  <programme start="20261105145000 -0300" stop="20261105165000 -0300" channel="megapix.br">
+    <title lang="pt">O Refém - Atentado em Madri</title>
+    <desc lang="pt">Santi, um simples motorista de táxi, é feito refém por um terrorista. Ele deve carregar uma bomba em seu corpo pelo centro de Madrid e sua única esperança é um acordo entre a polícia e o criminoso.</desc>
+    <category lang="pt">FILMES</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001343693_epg.jpg" />
   </programme>
   <programme start="20261103124600 -0300" stop="20261103133800 -0300" channel="mezzo.br">
     <title lang="pt">Martha Argerich &amp; Friends - Schubert - Coups de Coeur à Chantilly</title>
@@ -116546,6 +116526,14 @@
     <category lang="pt">VARIEDADES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000076688_epg.jpg" />
     <episode-num system="xmltv_ns">10.0.</episode-num>
+  </programme>
+  <programme start="20261105144600 -0300" stop="20261105151300 -0300" channel="modoviagem.br">
+    <title lang="pt">Mundo Visto De Cima</title>
+    <sub-title lang="pt">Itália - De Molfetta a Portofino</sub-title>
+    <desc lang="pt">Nessa 11ª temporada de The World from Above, nós podemos conhecer lugares como a famosa Costa Amalfitana da Itália, catedrais de Paris, a paisagem selvagem do Desfiladeiro de Bighorn em Montana, o</desc>
+    <category lang="pt">VARIEDADES</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000076688_epg.jpg" />
+    <episode-num system="xmltv_ns">10.1.</episode-num>
   </programme>
   <programme start="20261103122200 -0300" stop="20261103130800 -0300" channel="multishow.br">
     <title lang="pt">Vai Que Cola</title>
@@ -120069,6 +120057,12 @@
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11856302_5C0039FDD4CFDA82.jpg" />
     <episode-num system="xmltv_ns">2005.0.</episode-num>
   </programme>
+  <programme start="20261105144500 -0300" stop="20261105150000 -0300" channel="nhk.br">
+    <title lang="pt">Kid's Discovery</title>
+    <desc lang="pt">Education related to health, environment, language and expressions to nurture a child's creativity.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11851374_41BC601974C92E06.jpg" />
+    <episode-num system="xmltv_ns">2008.0.</episode-num>
+  </programme>
   <programme start="20261103120000 -0300" stop="20261103143000 -0300" channel="nsports.br">
     <title lang="pt">Estádio 97</title>
     <desc lang="pt">O estádio 97 é mais que um programa de futebol. É uma resenha que te faz sentir em uma mesa de bar.</desc>
@@ -121170,6 +121164,14 @@
     <category lang="pt">VARIEDADES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597528_epg.jpg" />
   </programme>
+  <programme start="20261105145200 -0300" stop="20261105151400 -0300" channel="off.br">
+    <title lang="pt">Skate Tales</title>
+    <sub-title lang="pt">Vitória Mendonça</sub-title>
+    <desc lang="pt">Madars conhece a cultura do skate brasileiro com a streeteira, Vitória. Inspiração do skate feminino, a skatista veio de raízes humildes para se tornar referência da nova geração.</desc>
+    <category lang="pt">VARIEDADES</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597528_epg.jpg" />
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+  </programme>
   <programme start="20261103120000 -0300" stop="20261103150000 -0300" channel="paramount1.br">
     <title lang="pt">Libertadores e Sulamericana</title>
     <desc lang="pt">Libertadores e Sulamericana com jogos exclusivos.</desc>
@@ -122070,6 +122072,20 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000117106_epg.jpg" />
     <episode-num system="xmltv_ns">13.308.</episode-num>
   </programme>
+  <programme start="20261105144500 -0300" stop="20261105145000 -0300" channel="playtv.br">
+    <title lang="pt">Clip-K Drops</title>
+    <desc lang="pt">Seqüência de clipes de musica pop coreana, o chamado "k-pop".  O gênero musical originado na Coréia do Sul, se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos.</desc>
+    <category lang="pt">MUSICA</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000117106_epg.jpg" />
+    <episode-num system="xmltv_ns">13.308.</episode-num>
+  </programme>
+  <programme start="20261105145000 -0300" stop="20261105145500 -0300" channel="playtv.br">
+    <title lang="pt">Clip-K Drops</title>
+    <desc lang="pt">Seqüência de clipes de musica pop coreana, o chamado "k-pop".  O gênero musical originado na Coréia do Sul, se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos.</desc>
+    <category lang="pt">MUSICA</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000117106_epg.jpg" />
+    <episode-num system="xmltv_ns">13.308.</episode-num>
+  </programme>
   <programme start="20261103120000 -0300" stop="20261103140000 -0300" channel="polishop.br">
     <title lang="pt">Programação Polishop TV</title>
     <desc lang="pt">São 24 horas de programas que apresentam inovações e produtos diferenciados que trazem praticidade, economia e facilidade para sua vida. O espaço perfeito para quem gosta de novidades e valoriza oportunidades e ofertas especiais.</desc>
@@ -122147,12 +122163,6 @@
     <desc lang="pt">São 24 horas de programas que apresentam inovações e produtos diferenciados que trazem praticidade, economia e facilidade para sua vida. O espaço perfeito para quem gosta de novidades e valoriza oportunidades e ofertas especiais.</desc>
     <category lang="pt">VARIEDADES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000202629_epg.jpg" />
-  </programme>
-  <programme start="20261103121800 -0300" stop="20261103124700 -0300" channel="premiere.br">
-    <title lang="pt">Mirassol x Internacional - Campeonato Brasileiro : Mirassol x Internacional</title>
-    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/28/47/28472384_95e9c4ed4f6ddbc3cd3f7e1ba97623d5.jpg" />
-    <episode-num system="xmltv_ns">2025.0.</episode-num>
   </programme>
   <programme start="20261103124700 -0300" stop="20261103131600 -0300" channel="premiere.br">
     <title lang="pt">Botafogo x Chapecoense - Campeonato Brasileiro : Botafogo x Chapecoense</title>
@@ -125416,6 +125426,12 @@
     <desc lang="pt">Scopriamo insieme notizie di attualità, sport, cinema, moda e musica di RAI Italia per gli italiani all'estero e per quanti nel mondo amano l'Italia e la sua grande ricchezza culturale, paesaggistica e produttiva.</desc>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/44/23446328_7d0b65d347708ed5391a9b19a4b862a5.jpg" />
   </programme>
+  <programme start="20261105144500 -0300" stop="20261105160000 -0300" channel="rai.br">
+    <title lang="pt">L'eredità</title>
+    <desc lang="pt">Sette concorrenti si sfidano in diverse prove a eliminazione, fino a raggiungere la fase finale del gioco, l'imperdibile Ghigliottina. Qui, per vincere, il campione deve indovinare una parola con l'aiuto di alcuni indizi.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/25/97/25976055_42f98f5ed44ce5f87b14fbbc4640a76e.jpg" />
+    <episode-num system="xmltv_ns">2001.0.</episode-num>
+  </programme>
   <programme start="20261103114500 -0300" stop="20261103140000 -0300" channel="raiinternational.br">
     <title lang="pt">Casa Italia</title>
     <desc lang="pt">Sinopse não disponível.</desc>
@@ -128293,17 +128309,6 @@
     <category lang="pt">VARIEDADES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000960333_epg.jpg" />
     <episode-num system="xmltv_ns">13.308.</episode-num>
-  </programme>
-  <programme start="20261103124000 -0300" stop="20261103124500 -0300" channel="redeseculo21.br">
-    <title lang="pt">Momento Servir Brasil</title>
-    <desc lang="pt">Um momento para conteúdos de fé, formação e espiritualidade para fortalecer a caminhada cristã.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/51/23515529_86938fac8f97741e919b121fa37ffe42.jpg" />
-  </programme>
-  <programme start="20261103124500 -0300" stop="20261103125000 -0300" channel="redeseculo21.br">
-    <title lang="pt">Conselhos e Oração</title>
-    <desc lang="pt">Irmã Luiza atende por telefone dezenas de pessoas que buscam respostas para suas dores.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/09/17092091_D7C99687998FA94F.jpg" />
-    <episode-num system="xmltv_ns">2022.0.</episode-num>
   </programme>
   <programme start="20261103125000 -0300" stop="20261103132000 -0300" channel="redeseculo21.br">
     <title lang="pt">Século News</title>
@@ -133486,6 +133491,12 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119496_epg.jpg" />
     <episode-num system="xmltv_ns">83.308.</episode-num>
   </programme>
+  <programme start="20261105144500 -0300" stop="20261105170000 -0300" channel="sportv.br">
+    <title lang="pt">São Paulo x Ceará - Ao Vivo</title>
+    <desc lang="pt">São Paulo e Ceará jogam a rodada de volta da Quartas de Final da Copa do Brasil Sub-20, no Cotia, em Cotia (SP).</desc>
+    <category lang="pt">ESPORTES</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001594518_epg.jpg" />
+  </programme>
   <programme start="20261103100000 -0300" stop="20261103130000 -0300" channel="sportv2.br">
     <title lang="pt">NFL: Philadelphia Eagles x Washington Commanders</title>
     <desc lang="pt">Philadelphia Eagles e Washington Commanders jogam pela 8ª rodada da fase Regular da NFL, no Northwest, em Landover, EUA.</desc>
@@ -136270,11 +136281,11 @@
     <category lang="pt">FILMES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000724158_epg.jpg" />
   </programme>
-  <programme start="20261103103000 -0300" stop="20261103125000 -0300" channel="telecinepipoca.br">
-    <title lang="pt">Milagre na Cela 7</title>
-    <desc lang="pt">Memo tem deficiência intelectual e é acusado injustamente pela morte de uma criança. Condenado, ele e sua adorável filha Ova lidam com o processo juntos.</desc>
+  <programme start="20261105144500 -0300" stop="20261105164000 -0300" channel="telecinefun.br">
+    <title lang="pt">Sing 2</title>
+    <desc lang="pt">Buster Moon e sua equipe tentam montar um novo espetáculo em Redshore City, mas precisam convencer a lendária estrela do rock Clay Calloway a sair do isolamento.</desc>
     <category lang="pt">FILMES</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000858281_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000940941_epg.jpg" />
   </programme>
   <programme start="20261103125000 -0300" stop="20261103150000 -0300" channel="telecinepipoca.br">
     <title lang="pt">Um Lugar Chamado Notting Hill</title>
@@ -137809,6 +137820,12 @@
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/28/51/28515824_1dcd6ec3f110a391209b00de00d348e9.jpg" />
     <episode-num system="xmltv_ns">4.4.</episode-num>
   </programme>
+  <programme start="20261105144900 -0300" stop="20261105153900 -0300" channel="teste9.br">
+    <title lang="pt">Largados e Pelados : 23 Dias</title>
+    <desc lang="pt">O alpinista Luke e a triatleta Lindsay são a dupla participante da vez. E seu desafio será intenso: eles são largados sem água, sem comida e sem abrigo na Namíbia e precisam fazer de tudo para sobreviver nesse ambiente por 21 dias.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/28/52/28520390_924a030699c0143c07e202f059710d72.jpg" />
+    <episode-num system="xmltv_ns">5.13.</episode-num>
+  </programme>
   <programme start="20261103093000 -0300" stop="20261103130000 -0300" channel="timesexclusivocnbc.br">
     <title lang="pt">Real Time - Ao Vivo</title>
     <desc lang="pt">A manhã de jornalismo de negócios mais completa do Brasil. O programa combina agilidade e rigor na apuração com quadros variados que abordam temas como medicina, esportes e comportamento.</desc>
@@ -137976,14 +137993,6 @@
     <desc lang="pt">Uma cobertura inédita do mundo dos esportes sob a ótica dos negócios. Inspirado no projeto da CNBC Internacional, o programa vai além da emoção das competições com entrevistas, análises, bastidores e o ...</desc>
     <category lang="pt">NOTICIAS</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001463171_epg.jpg" />
-  </programme>
-  <programme start="20261103120100 -0300" stop="20261103124500 -0300" channel="tlc.br">
-    <title lang="pt">Jay e Pamela</title>
-    <sub-title lang="pt">Episódio 8 - Eu Vejo Você, Eu Escolho Você</sub-title>
-    <desc lang="pt">Jay é internado para uma cirurgia urgente, mas complicações deixam toda a família preocupada com seu futuro.</desc>
-    <category lang="pt">VARIEDADES</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000117292_epg.jpg" />
-    <episode-num system="xmltv_ns">1.7.</episode-num>
   </programme>
   <programme start="20261103124500 -0300" stop="20261103141300 -0300" channel="tlc.br">
     <title lang="pt">Uma Mulher de Peso</title>
@@ -138599,6 +138608,14 @@
     <category lang="pt">VARIEDADES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000100645_epg.jpg" />
     <episode-num system="xmltv_ns">3.18.</episode-num>
+  </programme>
+  <programme start="20261105145300 -0300" stop="20261105153700 -0300" channel="tlc.br">
+    <title lang="pt">Amy e Tammy: Irmãs Contra o Peso</title>
+    <sub-title lang="pt">Life Is Going To Be Gouda</sub-title>
+    <desc lang="pt">As irmãs Slaton, com uma média de mais de 1.000 libras, sempre dependeram umas das outras para obter apoio.</desc>
+    <category lang="pt">VARIEDADES</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000100645_epg.jpg" />
+    <episode-num system="xmltv_ns">4.0.</episode-num>
   </programme>
   <programme start="20261103124200 -0300" stop="20261103130500 -0300" channel="tnt.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
@@ -145720,13 +145737,6 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000816691_epg.jpg" />
     <episode-num system="xmltv_ns">13.308.</episode-num>
   </programme>
-  <programme start="20261103120000 -0300" stop="20261103124500 -0300" channel="tvaparecida.br">
-    <title lang="pt">Missa de Aparecida - Santuário Nacional</title>
-    <desc lang="pt">Missa de Aparecida, ao vivo, direto do Santuário Nacional de Aparecida.</desc>
-    <category lang="pt">CANAIS ABERTOS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000070725_epg.jpg" />
-    <episode-num system="xmltv_ns">11.306.</episode-num>
-  </programme>
   <programme start="20261103124500 -0300" stop="20261103133000 -0300" channel="tvaparecida.br">
     <title lang="pt">TJ Aparecida</title>
     <desc lang="pt">Telejornal com as principais informações do Brasil e do mundo, sobre a Igreja e o Santuário Nacional de Aparecida. Reportagens sobre diversos temas e a previsão do tempo.</desc>
@@ -146203,14 +146213,6 @@
     <category lang="pt">CANAIS ABERTOS</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000098939_epg.jpg" />
     <episode-num system="xmltv_ns">12.308.</episode-num>
-  </programme>
-  <programme start="20261103123400 -0300" stop="20261103124500 -0300" channel="tvbrasil.br">
-    <title lang="pt">Heroínas Negras Brasileiras</title>
-    <sub-title lang="pt">Aqualtune</sub-title>
-    <desc lang="pt">A vida de Aqualtune muda abruptamente quando seu reino é invadido: ela é capturada, arrancada de sua terra e trazida como escravizada para o Brasil. Ela foi Princesa do Império do Congo, Matriarca de Palmares e avó de Zumbi.</desc>
-    <category lang="pt">CANAIS ABERTOS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118567_epg.jpg" />
-    <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
   <programme start="20261103124500 -0300" stop="20261103133000 -0300" channel="tvbrasil.br">
     <title lang="pt">Repórter Brasil Tarde</title>
@@ -149406,13 +149408,6 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000093177_epg.jpg" />
     <episode-num system="xmltv_ns">13.308.</episode-num>
   </programme>
-  <programme start="20261103124000 -0300" stop="20261103125000 -0300" channel="tvratimbum.br">
-    <title lang="pt">Viola e Tambor</title>
-    <desc lang="pt">Viola e Tambor são melhores amigos e moram em uma cidade pequena com outros instrumentos musicais, onde vivem aventuras simples e cotidianas.</desc>
-    <category lang="pt">INFANTIS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000095009_epg.jpg" />
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-  </programme>
   <programme start="20261103125000 -0300" stop="20261103130000 -0300" channel="tvratimbum.br">
     <title lang="pt">Esquadrão do Mar Azul</title>
     <sub-title lang="pt">Para onde eu vou?</sub-title>
@@ -151022,6 +151017,14 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000117241_epg.jpg" />
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
+  <programme start="20261105144500 -0300" stop="20261105150000 -0300" channel="tvratimbum.br">
+    <title lang="pt">Yoga Com Histórias</title>
+    <sub-title lang="pt">O Pequeno Yogue Que Encarou o Monstro</sub-title>
+    <desc lang="pt">"Era uma vez..." É assim que as histórias começam, mas com o João e a Rosa é diferente. Eles contam histórias ensinando Yoga para as crianças de uma maneira descontraída e deliciosa.</desc>
+    <category lang="pt">INFANTIS</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000082026_epg.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20261103100000 -0300" stop="20261103133000 -0300" channel="tvsenado.br">
     <title lang="pt">Comissão: Comissão de Assuntos Econômicos</title>
     <desc lang="pt">Audiência para discutir aumento do preço dos combustíveis - Senadores questionam o presidente da Petrobras sobre os sucessivos aumentos dos combustíveis.</desc>
@@ -151332,12 +151335,6 @@
     <category lang="pt">VARIEDADES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072975_epg.jpg" />
     <episode-num system="xmltv_ns">13.308.</episode-num>
-  </programme>
-  <programme start="20261103120700 -0300" stop="20261103124500 -0300" channel="tv5monde.br">
-    <title lang="pt">Chef Pays</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <category lang="pt">NOTICIAS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000598702_epg.jpg" />
   </programme>
   <programme start="20261103124500 -0300" stop="20261103133700 -0300" channel="tv5monde.br">
     <title lang="pt">Tout Le Monde Veut Prendre Sa Place</title>
@@ -152174,11 +152171,11 @@
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/28/54/28545253_f4047818dab54b1383a6cac9a73ad8e2.jpg" />
     <episode-num system="xmltv_ns">1.12.</episode-num>
   </programme>
-  <programme start="20261103105000 -0300" stop="20261103125000 -0300" channel="tveinternational.br">
-    <title lang="pt">Directo Al Grano</title>
-    <desc lang="pt">Revista de atualidades sociais e políticas com seções de humor e verificação de notícias falsas.</desc>
-    <category lang="pt">NOTICIAS</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597531_epg.jpg" />
+  <programme start="20261105145000 -0300" stop="20261105154000 -0300" channel="tve.br">
+    <title lang="pt">Saber y ganar</title>
+    <desc lang="pt">Concurso que pone a prueba los conocimientos y agilidad mental a través de un auténtico bombardeo de preguntas de ámbito general. Tres concursantes compiten en cada programa para continuar en el siguiente y ganar más dinero.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/77/11775491_D65962DDB9084D24.jpg" />
+    <episode-num system="xmltv_ns">1996.0.</episode-num>
   </programme>
   <programme start="20261103125000 -0300" stop="20261103134500 -0300" channel="tveinternational.br">
     <title lang="pt">Senderos Del Mundo</title>
@@ -154367,6 +154364,14 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078581_epg.jpg" />
     <episode-num system="xmltv_ns">2.2.</episode-num>
   </programme>
+  <programme start="20261105145000 -0300" stop="20261105154000 -0300" channel="universaltv.br">
+    <title lang="pt">Chicago Fire</title>
+    <sub-title lang="pt">Até Que Seus Pés Saiam Do Chão</sub-title>
+    <desc lang="pt">Severide oferece ajuda a Dave Bloom, um ex-bombeiro que está enfrentando problemas com vícios. Jones descobre que seu pai está pressionando o comandante Boden.</desc>
+    <category lang="pt">SERIES</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000068644_epg.jpg" />
+    <episode-num system="xmltv_ns">1.17.</episode-num>
+  </programme>
   <programme start="20261103100000 -0300" stop="20261103130000 -0300" channel="uol.br">
     <title lang="pt">UOL News - 1ª Edição</title>
     <desc lang="pt">Fabíola Cidral e Diego Sarza trazem as notícias mais importantes do Brasil e do mundo em tempo real, com análises sobre os fatos assim que eles acontecem, de um jeito fácil de entender, ajudando o espectador a formar sua própria opinião.</desc>
@@ -155072,6 +155077,14 @@
     <category lang="pt">SERIES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000064047_epg.jpg" />
     <episode-num system="xmltv_ns">3.16.</episode-num>
+  </programme>
+  <programme start="20261105145000 -0300" stop="20261105154000 -0300" channel="usa.br">
+    <title lang="pt">Blue Bloods</title>
+    <sub-title lang="pt">Corrigindo Erros</sub-title>
+    <desc lang="pt">Danny e Baez investigam a morte de uma mulher após uma quantidade letal de lidocaína para uma cirurgia plástica.</desc>
+    <category lang="pt">SERIES</category>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000064047_epg.jpg" />
+    <episode-num system="xmltv_ns">3.17.</episode-num>
   </programme>
   <programme start="20261103123800 -0300" stop="20261103130100 -0300" channel="warner.br">
     <title lang="pt">The Big Bang Theory : The Deception Verification</title>
@@ -156428,13 +156441,6 @@
     <category lang="pt">SERIES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000052234_epg.jpg" />
     <episode-num system="xmltv_ns">3.22.</episode-num>
-  </programme>
-  <programme start="20261103123000 -0300" stop="20261103124500 -0300" channel="woohoo.br">
-    <title lang="pt">Check Point</title>
-    <desc lang="pt">Check Point é para quem quer ficar por dentro das últimas novidades do mundo dos games e eSports. Com uma abordagem dinâmica e informativa, traz atualizações sobre lançamentos, campeonatos, eventos.</desc>
-    <category lang="pt">VARIEDADES</category>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000598315_epg.jpg" />
-    <episode-num system="xmltv_ns">81.306.</episode-num>
   </programme>
   <programme start="20261103124500 -0300" stop="20261103130000 -0300" channel="woohoo.br">
     <title lang="pt">Queue Games</title>
@@ -160063,6 +160069,12 @@
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/64/23648147_56c1fa805e28f71200d3c05bbb739d3f.jpg" />
     <episode-num system="xmltv_ns">2025.0.</episode-num>
   </programme>
+  <programme start="20261105144500 -0300" stop="20261105151500 -0300" channel="woohoosurf.br">
+    <title lang="pt">Comp Action</title>
+    <desc lang="pt">Programa resgata imagens clássicas de eventos de surfe ao redor do Brasil e do mundo.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/42/23425671_d155080e56097f181724cde3c7072070.jpg" />
+    <episode-num system="xmltv_ns">2025.0.</episode-num>
+  </programme>
   <programme start="20261103123000 -0300" stop="20261103141500 -0300" channel="xsports.br">
     <title lang="pt">VT - Seattle Reign x Orlando Pride</title>
     <desc lang="pt">NWSL: O melhor do futebol feminino dos EUA, com clubes fortes, craques internacionais e jogos cheios de emoção</desc>
@@ -160261,18 +160273,6 @@
     <desc lang="pt">Al Qadsiah e Al Fayha jogam pela 13ª rodada do Primeiro Turno da Liga Saudita, no Prince Saud bin Jalawi Stadium, em Khobar, Arábia Saudita.</desc>
     <category lang="pt">ESPORTES</category>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001595313_epg.jpg" />
-  </programme>
-  <programme start="20261103124000 -0300" stop="20261103124800 -0300" channel="yupi.br">
-    <title lang="pt">O Diário de Mika</title>
-    <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer. Junto de seus brinquedos, Puquê, Blablá, Bru, Javô, Abelhuda e Lilá, ela aprende sobre o mundo, vivendo incríveis aventuras e novas experiências.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/81/11818910_8EE37EC65C48C3EB.jpg" />
-    <episode-num system="xmltv_ns">2025.0.</episode-num>
-  </programme>
-  <programme start="20261103124800 -0300" stop="20261103124900 -0300" channel="yupi.br">
-    <title lang="pt">Clipe Mania</title>
-    <desc lang="pt">No "Clipe Mania", toda criançada canta, dança, pula, se diverte e aprende de montão.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/59/23593687_3208b86a6aff3966e23bbbc85a27d980.jpg" />
-    <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
   <programme start="20261103124900 -0300" stop="20261103125600 -0300" channel="yupi.br">
     <title lang="pt">Jacarelvis e Amigos - Série Musical</title>
@@ -164211,5 +164211,17 @@
     <desc lang="pt">Sol decide seguir a última moda de cabelo bagunçado que todos estão usando, mas logo percebe que o estilo não combina com ela. Apesar da pressão para se encaixar, ela aprende que nem tudo que está na moda é realmente interessante ou certo para todos.</desc>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/25/17/25173362_89d57d379b8ea7ba6784fc4084ff6a05.jpg" />
     <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20261105145100 -0300" stop="20261105145200 -0300" channel="yupi.br">
+    <title lang="pt">Mundo da Fantasia</title>
+    <desc lang="pt">No Mundo da Fantasia, os brinquedos ganham vida, os dragões são amigos, cada desenho é um portal para uma nova aventura e a diversão é garantida.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/79/23799437_32747d19b9a27905c28d9af184268ad2.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20261105145200 -0300" stop="20261105145600 -0300" channel="yupi.br">
+    <title lang="pt">Turma do Folclore : Lenda do Boi Bumbá</title>
+    <desc lang="pt">Conheça a história do Boi Bumba, esse simpático boizinho que vive no Norte e Nordeste, e que sempre quando aparece traz uma grande festa consigo.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/84/23845512_948ddf7928c519144086320ad84de93f.jpg" />
+    <episode-num system="xmltv_ns">2.5.</episode-num>
   </programme>
 </tv>
