@@ -38,3 +38,13 @@ Ou descomprimido:
 https://raw.githubusercontent.com/CesarOvies/EPG-AutoAdjusted/main/output/epg.xml
 ```
 
+## Aviso Legal (Disclaimer)
+
+- Este projeto **não fornece, não hospeda, não transmite e não distribui** nenhum fluxo de vídeo, áudio, sinal de TV ou listas de reprodução (`.m3u` / `.m3u8`).
+- O repositório atua exclusivamente como um agregador automatizado de metadados públicos de grade de programação (horários, títulos e sinopses) disponibilizados publicamente na web para fins informativos.
+- Todas as marcas, nomes de canais e logotipos pertencem aos seus respectivos proprietários.
+
+## Licença
+
+Distribuído sob a licença [MIT](LICENSE).
+
