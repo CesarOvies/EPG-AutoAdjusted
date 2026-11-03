@@ -33,3 +33,4 @@ jobs:
 
       - name: Run Binary Self-Check
         run: dotnet run --project src/EpgGenerator -c Release --no-build -- --self-check
+

@@ -21,3 +21,4 @@ body:
     attributes:
       label: "Logs do Workflow ou Console (se houver)"
       render: shell
+
