@@ -13,14 +13,18 @@ public sealed record WorkflowStats(
 
 public static class StatsSvgWriter
 {
-    private const string RunsApiUrl =
-        "https://api.github.com/repos/CesarOvies/EPG-AutoAdjusted/actions/workflows/update-epg.yml/runs?per_page=100";
+    private const string DefaultRepo = "CesarOvies/EPG-AutoAdjusted";
 
     public static async Task<WorkflowStats> FetchWorkflowStatsAsync(HttpClient http, CancellationToken ct = default)
     {
         try
         {
-            using var req = new HttpRequestMessage(HttpMethod.Get, RunsApiUrl);
+            var repo = Environment.GetEnvironmentVariable("GITHUB_REPOSITORY");
+            if (string.IsNullOrWhiteSpace(repo))
+                repo = DefaultRepo;
+
+            var runsApiUrl = $"https://api.github.com/repos/{repo}/actions/workflows/update-epg.yml/runs?per_page=100";
+            using var req = new HttpRequestMessage(HttpMethod.Get, runsApiUrl);
             req.Headers.Accept.ParseAdd("application/vnd.github+json");
 
             var token = Environment.GetEnvironmentVariable("GITHUB_TOKEN");

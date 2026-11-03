@@ -1,0 +1,35 @@
+name: CI — Build & Tests
+
+on:
+  pull_request:
+    branches: [ main ]
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - 'output/**'
+      - '**.md'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Build, Test & Validate Aliases
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup .NET 10
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Build (Warnings as Errors)
+        run: dotnet build -c Release --warnaserror --nologo
+
+      - name: Run xUnit Test Suite & aliases.json Contract Check
+        run: dotnet test -c Release --no-build --nologo --verbosity normal
+
+      - name: Run Binary Self-Check
+        run: dotnet run --project src/EpgGenerator -c Release --no-build -- --self-check

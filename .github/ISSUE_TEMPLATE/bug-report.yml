@@ -1,0 +1,23 @@
+name: "🐛 Reportar Problema / Falha na Grade"
+description: "Reporte erro de coleta, fuso horário incorreto ou falha de workflow"
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Descrição do Problema"
+      description: "O que aconteceu?"
+      placeholder: "Descreva o comportamento observado..."
+    validations:
+      required: true
+  - type: input
+    id: affected_channels
+    attributes:
+      label: "Canais afetados (se aplicável)"
+      placeholder: "Ex: HBO, ESPN, Todos"
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Logs do Workflow ou Console (se houver)"
+      render: shell

@@ -1,0 +1,37 @@
+name: "📺 Solicitar Canal / Apelido M3U"
+description: "Reporte um canal da sua lista M3U que não vinculou automaticamente ao EPG"
+title: "[Canal]: "
+labels: ["channel-alias", "enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use este formulário se algum canal fechado ou aberto da sua lista M3U não reconheceu o guia automaticamente.
+  - type: input
+    id: m3u_name
+    attributes:
+      label: "Nome do canal na sua lista M3U (tvg-name)"
+      description: "Cole exatamente como o canal aparece na sua lista ou a linha #EXTINF"
+      placeholder: 'Ex: #EXTINF:-1 tvg-id="tc.action" tvg-name="TELECINE ACTION FHD",TELECINE ACTION FHD'
+    validations:
+      required: true
+  - type: input
+    id: operator_name
+    attributes:
+      label: "Qual é o canal oficial correspondente?"
+      description: "Nome oficial da emissora na Claro TV+ ou Vivo Play"
+      placeholder: "Ex: TELECINE ACTION"
+    validations:
+      required: true
+  - type: dropdown
+    id: player
+    attributes:
+      label: "Qual Player IPTV você utiliza?"
+      options:
+        - TiviMate
+        - IPTV Smarters
+        - Televizo
+        - Kodi
+        - Outro
+    validations:
+      required: false
