@@ -43,8 +43,6 @@ public sealed class AliasConfig
 
     public Dictionary<string, List<string>> CustomAliases { get; set; } = new(StringComparer.OrdinalIgnoreCase);
 
-    public List<string> StaticChannels { get; set; } = [];
-
     public static AliasConfig Load(string path)
     {
         if (!File.Exists(path))
