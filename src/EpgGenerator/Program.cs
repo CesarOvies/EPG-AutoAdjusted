@@ -51,8 +51,12 @@ if (!EpgAggregator.PassesSafetyGate(validChannels))
 
 var xmlPath = Path.Combine(options.OutputDir, "epg.xml");
 var gzPath = Path.Combine(options.OutputDir, "epg.xml.gz");
+var statsPath = Path.Combine(options.OutputDir, "stats.svg");
 
 XmlTvWriter.Write(validChannels, aliasConfig, xmlPath, gzPath);
+
+var wfStats = await StatsSvgWriter.FetchWorkflowStatsAsync(http);
+StatsSvgWriter.WriteSvg(statsPath, wfStats, validChannels.Count, totalProgrammes, DateTimeOffset.UtcNow);
 
 var xmlSizeMb = new FileInfo(xmlPath).Length / (1024.0 * 1024.0);
 var gzSizeMb = new FileInfo(gzPath).Length / (1024.0 * 1024.0);

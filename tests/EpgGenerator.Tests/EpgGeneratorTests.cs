@@ -258,6 +258,28 @@ public class EpgGeneratorTests
         Assert.NotEmpty(cfg.CustomAliases);
     }
 
+    [Fact]
+    public void StatsSvgWriter_GeneratesValidSvgDashboard()
+    {
+        var tempSvg = Path.Combine(Path.GetTempPath(), "stats-" + Guid.NewGuid().ToString("N") + ".svg");
+        try
+        {
+            var stats = new WorkflowStats(10, 9, 1, [true, true, false, true]);
+            StatsSvgWriter.WriteSvg(tempSvg, stats, 210, 8827, DateTimeOffset.UtcNow);
+
+            Assert.True(File.Exists(tempSvg));
+            var content = File.ReadAllText(tempSvg);
+            Assert.Contains("90%", content);
+            Assert.Contains("9 <tspan", content);
+            Assert.Contains("210", content);
+        }
+        finally
+        {
+            if (File.Exists(tempSvg))
+                File.Delete(tempSvg);
+        }
+    }
+
     private sealed class FakeHttpMessageHandler(Func<HttpRequestMessage, HttpResponseMessage> responder) : HttpMessageHandler
     {
         protected override Task<HttpResponseMessage> SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)

@@ -1,5 +1,9 @@
 # EPG-AutoAdjusted (PT-BR)
 
+[![Update EPG](https://github.com/CesarOvies/EPG-AutoAdjusted/actions/workflows/update-epg.yml/badge.svg)](https://github.com/CesarOvies/EPG-AutoAdjusted/actions/workflows/update-epg.yml)
+
+![Painel de Status do EPG](output/stats.svg)
+
 Gerador próprio de EPG (padrão XMLTV) em **C# / .NET 10**, projetado para rodar **100% grátis via GitHub Actions** sem depender de outros repositórios Git.
 
 ## Como funciona
